@@ -96,6 +96,11 @@ ul.ck li:before{content:"✓";position:absolute;left:0;top:0;color:var(--acc);fo
 .method small{display:block;color:var(--mut);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;margin-bottom:5px}
 .method b{font-size:15.5px;font-weight:600;word-break:break-all}
 
+.girih-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin:6px 0 2px}
+.girih-grid img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;border:1px solid var(--line);display:block;transition:.18s;background:var(--bg2)}
+.girih-grid img:hover{transform:scale(1.05);border-color:#39465a}
+@media(max-width:560px){.girih-grid{grid-template-columns:repeat(4,1fr)}}
+
 footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-size:13.5px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 </style>
 </head>
@@ -107,6 +112,7 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-siz
     <nav><ul>
       <li><a href="#services">Services</a></li>
       <li><a href="#work">Work</a></li>
+      <li><a href="#products">Products</a></li>
       <li><a href="#how">How it works</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul></nav>
@@ -203,6 +209,46 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-siz
     </div>
   </section>
 
+  <section id="products">
+    <h2>Products you can buy right now</h2>
+    <p class="sub">Already built, already tested. No scoping call, no waiting — pay and the files are yours the same day.</p>
+    <div class="grid g2">
+      <div class="work">
+        <div class="top"><h3>GIRIH.EXE — generative NFT collection</h3><span class="pill">FOR SALE</span></div>
+        <p>Ten 1024×1024 artworks generated from Persian girih tilework geometry. Deterministic seed, so anyone can reproduce the exact output — and it ships with an ERC-721 contract (ERC-2981 royalties, max supply 10) that passes 28 on-chain tests.</p>
+        <div class="girih-grid">
+          <img src="assets/girih/1.jpg" alt="GIRIH.EXE artwork 1" loading="lazy" decoding="async" />
+          <img src="assets/girih/2.jpg" alt="GIRIH.EXE artwork 2" loading="lazy" decoding="async" />
+          <img src="assets/girih/3.jpg" alt="GIRIH.EXE artwork 3" loading="lazy" decoding="async" />
+          <img src="assets/girih/4.jpg" alt="GIRIH.EXE artwork 4" loading="lazy" decoding="async" />
+          <img src="assets/girih/5.jpg" alt="GIRIH.EXE artwork 5" loading="lazy" decoding="async" />
+          <img src="assets/girih/6.jpg" alt="GIRIH.EXE artwork 6" loading="lazy" decoding="async" />
+          <img src="assets/girih/7.jpg" alt="GIRIH.EXE artwork 7" loading="lazy" decoding="async" />
+          <img src="assets/girih/8.jpg" alt="GIRIH.EXE artwork 8" loading="lazy" decoding="async" />
+          <img src="assets/girih/9.jpg" alt="GIRIH.EXE artwork 9" loading="lazy" decoding="async" />
+          <img src="assets/girih/10.jpg" alt="GIRIH.EXE artwork 10" loading="lazy" decoding="async" />
+        </div>
+        <div class="stack"><i>PIL / NumPy</i><i>Solidity 0.8.24</i><i>OpenZeppelin 5.6</i><i>ERC-2981</i></div>
+        <a href="https://github.com/Fyosamu/girih-exe" target="_blank" rel="noopener">Art, generator &amp; contract →</a>
+        <div class="price">20 USDT <span>— per piece · 10 pieces in the drop</span></div>
+      </div>
+      <div class="work">
+        <div class="top"><h3>PostPilot — Telegram scheduler bot</h3><span class="pill">FOR SALE</span></div>
+        <p>A framework-free Python bot that schedules posts to any Telegram channel and auto-publishes new RSS/Atom items. One runtime dependency, one SQLite file, and a test suite that runs on the standard library alone.</p>
+        <div class="stack"><i>Python</i><i>SQLite</i><i>RSS / Atom</i><i>40 tests</i></div>
+        <ul class="ck" style="margin-top:6px">
+          <li>Absolute, relative and recurring schedules — timezone-correct</li>
+          <li>First RSS poll only records a baseline, so old articles never flood the channel</li>
+          <li>Rate-limit aware: retries instead of dropping, network hiccups stay pending</li>
+          <li>Ships with install docs, 24/7 service setup and the full test run</li>
+        </ul>
+        <a href="mailto:hkay7645@gmail.com?subject=PostPilot%20source%20request">Ask for the source &amp; test run →</a>
+        <div class="price">$29 <span>— source + docs, delivered same day</span></div>
+      </div>
+    </div>
+    <div class="note"><b>How to buy:</b> mail <a href="mailto:hkay7645@gmail.com">hkay7645@gmail.com</a> and say which one you want. Payment in USDT (BEP-20 / ERC-20) — never TRC-20, that address does not exist on Tron.</div>
+  </section>
+
   <section id="how">
     <h2>How it works</h2>
     <p class="sub">Short, because it should be. No forms to fill, no calls to schedule before we've even agreed it's a fit.</p>
@@ -214,7 +260,7 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-siz
     </div>
 
     <div class="note">
-      <b>Payment:</b> USDT (TRC-20) directly, or through escrow on LaborX if you'd rather not send funds first. No bank transfer, no PayPal, no invoices with a company name — which is exactly why I work this way.
+      <b>Payment:</b> USDT on BEP-20 (BNB Chain) or ERC-20 (Ethereum/Base/Polygon) to the address above, or through escrow on LaborX if you'd rather not send funds first. No bank transfer, no PayPal, no invoices with a company name — which is exactly why I work this way. <b>Not TRC-20</b>: that wallet address does not exist on Tron.
     </div>
   </section>
 
@@ -223,12 +269,12 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-siz
       <h2>Tell me what you need built</h2>
       <p class="sub">Message me with a sentence or two. You'll get a real reply with a real price, not a questionnaire.</p>
       <div class="methods">
-        <div class="method"><small>Email</small><b><a href="mailto:hello@aitoolscout.com">hello@aitoolscout.com</a></b></div>
+        <div class="method"><small>Email</small><b><a href="mailto:hkay7645@gmail.com">hkay7645@gmail.com</a></b></div>
         <div class="method"><small>GitHub</small><b><a href="https://github.com/Fyosamu" target="_blank" rel="noopener">github.com/Fyosamu</a></b></div>
-        <div class="method"><small>USDT (TRC-20)</small><b>0xE1E3…3aF34</b></div>
+        <div class="method"><small>USDT — BEP-20 / ERC-20 only</small><b>0xE1E3e1c2978c74f43Bb095023135C3278303aF34</b></div>
       </div>
       <div class="cta" style="justify-content:center">
-        <a class="btn btn-p" href="mailto:hello@aitoolscout.com?subject=Project%20enquiry">Send a message</a>
+        <a class="btn btn-p" href="mailto:hkay7645@gmail.com?subject=Project%20enquiry">Send a message</a>
         <a class="btn btn-s" href="https://github.com/Fyosamu?tab=repositories" target="_blank" rel="noopener">Browse repositories</a>
       </div>
     </div>
