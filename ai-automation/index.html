@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Workflow Automation &amp; SaaS Integrations — n8n, Make, AI Agents | dazo</title>
+<meta name="description" content="AI workflow automation and SaaS integration: n8n / Make / Zapier pipelines, LLM agents and RAG over your own docs, CRM sync, internal tools and ops alerting. From $180, delivered in 3–7 days. Source handed over. Paid in USDT." />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<link rel="canonical" href="https://fyosamu.github.io/ai-automation/" />
+<meta name="theme-color" content="#0b0f14" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://fyosamu.github.io/ai-automation/" />
+<meta property="og:site_name" content="dazo" />
+<meta property="og:title" content="AI workflow automation &amp; SaaS integrations" />
+<meta property="og:description" content="Integrations, AI agents, data sync and internal tools. From $180, 3–7 days. Source handed over. Paid in USDT." />
+<meta property="og:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AI workflow automation &amp; SaaS integrations" />
+<meta name="twitter:description" content="Integrations, AI agents, data sync and internal tools. From $180, 3–7 days." />
+<meta name="twitter:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><text x='32' y='45' font-family='Arial,Helvetica,sans-serif' font-size='40' font-weight='bold' fill='%234dd4ac' text-anchor='middle'>d</text></svg>" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+:root{--bg:#0b0f14;--bg2:#11161d;--panel:#151c25;--line:#222b36;--fg:#e6edf3;--mut:#8b98a8;--acc:#4dd4ac;--acc2:#7aa2ff;--warn:#ffb454}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:940px;margin:0 auto;padding:0 22px}
+header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:62px}
+.brand{font-weight:800;letter-spacing:-.02em;font-size:18px;color:var(--fg)}.brand span{color:var(--acc)}
+.nav a.back{color:var(--mut);font-size:14.5px}.nav a.back:hover{color:var(--fg);text-decoration:none}
+.hero{padding:70px 0 48px;position:relative;overflow:hidden}
+.hero:after{content:"";position:absolute;width:520px;height:520px;right:-170px;top:-200px;background:radial-gradient(circle,rgba(77,212,172,.15),transparent 62%);pointer-events:none}
+.eyebrow{display:inline-flex;gap:8px;font-size:13px;font-weight:600;color:var(--acc);background:rgba(77,212,172,.09);border:1px solid rgba(77,212,172,.24);padding:6px 14px;border-radius:999px}
+h1{font-size:clamp(30px,5vw,50px);line-height:1.1;letter-spacing:-.03em;font-weight:800;margin:22px 0 16px;max-width:18ch}
+h1 em{font-style:normal;color:var(--acc)}
+.lead{font-size:18.5px;color:var(--mut);max-width:62ch;margin:0 0 28px}
+.cta{display:flex;gap:13px;flex-wrap:wrap}
+.btn{display:inline-block;padding:13px 24px;border-radius:11px;font-weight:600;font-size:15px;border:1px solid transparent;transition:.15s}
+.btn:hover{text-decoration:none;transform:translateY(-1px)}
+.btn-p{background:var(--acc);color:#04120e}.btn-p:hover{background:#5ee6bd}
+.btn-s{background:transparent;color:var(--fg);border-color:var(--line)}.btn-s:hover{border-color:#39465a;background:var(--bg2)}
+section{padding:56px 0;border-top:1px solid var(--line)}
+h2{font-size:clamp(23px,3.2vw,31px);letter-spacing:-.025em;font-weight:700;margin:0 0 12px}
+.sub{color:var(--mut);font-size:16.5px;max-width:66ch;margin:0 0 32px}
+.grid{display:grid;gap:18px}
+.g3{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:24px}
+.card h3{margin:0 0 8px;font-size:17px;font-weight:650}
+.card p{margin:0;color:var(--mut);font-size:14.7px}
+.tag{display:inline-block;font-size:11.5px;font-weight:600;color:var(--acc2);background:rgba(122,162,255,.1);border:1px solid rgba(122,162,255,.22);padding:3px 9px;border-radius:6px;margin-bottom:12px;text-transform:uppercase;letter-spacing:.05em}
+ul.ck{list-style:none;padding:0;margin:0;display:grid;gap:11px}
+ul.ck li{position:relative;padding-left:29px;color:var(--mut);font-size:15.2px}
+ul.ck li:before{content:"✓";position:absolute;left:0;top:0;color:var(--acc);font-weight:700}
+ul.ck li b{color:var(--fg);font-weight:650}
+.steps{counter-reset:s;display:grid;gap:15px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.step{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:21px}
+.step:before{counter-increment:s;content:"0" counter(s);display:block;font-size:13px;font-weight:700;color:var(--acc);margin-bottom:8px;letter-spacing:.08em}
+.step h4{margin:0 0 6px;font-size:16px;font-weight:650}
+.step p{margin:0;color:var(--mut);font-size:14.3px}
+.faq{display:grid;gap:13px}
+.faq details{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:17px 20px}
+.faq summary{cursor:pointer;font-weight:650;font-size:15.7px;list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary:after{content:"+";float:right;color:var(--acc);font-weight:700}
+.faq details[open] summary:after{content:"–"}
+.faq p{margin:11px 0 0;color:var(--mut);font-size:15px}
+.note{background:rgba(77,212,172,.06);border:1px solid rgba(77,212,172,.26);border-radius:13px;padding:19px 22px;margin-top:26px;font-size:15px;color:#c6f5e6}
+.note b{color:var(--acc)}
+.price{background:var(--bg2);border:1px solid var(--line);border-radius:15px;padding:26px;text-align:center}
+.price .n{font-size:44px;font-weight:800;letter-spacing:-.04em;color:var(--acc);line-height:1}
+.price p{margin:9px 0 0;color:var(--mut);font-size:14.5px}
+footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-size:13.5px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+</style>
+</head>
+<body>
+
+<header><div class="wrap nav">
+  <div class="brand">dazo<span>.</span></div>
+  <a class="back" href="/">← All services</a>
+</div></header>
+
+<div class="wrap">
+  <section class="hero" style="border:0">
+    <span class="eyebrow">AI workflow automation</span>
+    <h1>Stop being the <em>API between your own tools</em></h1>
+    <p class="lead">Integrations, AI agents, data sync and internal tools for SaaS teams and operators. Built on n8n, Make or straight Python/Node when the visual builder hits a wall — with the workflow definitions handed over so the automation is yours, not a subscription you rent forever.</p>
+    <div class="cta">
+      <a class="btn btn-p" href="mailto:hkay7645@gmail.com?subject=Workflow%20automation%20enquiry">Describe your workflow</a>
+      <a class="btn btn-s" href="#proof">See a shipped one</a>
+    </div>
+  </section>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <h2>What we automate</h2>
+    <div class="grid g3">
+      <div class="card"><span class="tag">Integrations</span><h3>Connect the stack</h3><p>Webhooks, OAuth, REST and GraphQL between your CRM, billing, helpdesk and sheets. Two-way sync with conflict rules — not a one-off zap that silently stops working in month two.</p></div>
+      <div class="card"><span class="tag">AI agents</span><h3>LLM pipelines that do a job</h3><p>Classification, extraction, summarisation and routing over your own data. Retrieval over your docs, guardrails on the output, and a handoff to a human when confidence is low.</p></div>
+      <div class="card"><span class="tag">Automation</span><h3>n8n, Make or Zapier</h3><p>Visual builders when they are enough, self-hosted n8n or plain Python when they are not. Either way you own the instance and the workflow files — exportable, versioned, not locked in.</p></div>
+      <div class="card"><span class="tag">Data</span><h3>Pipelines &amp; sync</h3><p>Scheduled jobs, dedupe, backfills and migrations between SaaS tools. Idempotent retries, so a dropped connection never duplicates a row or loses an order.</p></div>
+      <div class="card"><span class="tag">Internal</span><h3>Dashboards &amp; approval flows</h3><p>Admin panels, review queues and role-gated actions over the database you already have. The spreadsheet everyone edits becomes something with permissions and an audit trail.</p></div>
+      <div class="card"><span class="tag">Ops</span><h3>Reports &amp; alerts</h3><p>Daily digests, anomaly alerts, SLA watches and scheduled reports delivered to Slack or Telegram — without anyone assembling them by hand every morning.</p></div>
+    </div>
+  </section>
+
+  <section id="proof">
+    <h2>Proof, not a pitch</h2>
+    <p class="sub"><b style="color:var(--fg)">PostPilot</b>, our own channel scheduler, is the standard we build your workflows to — and <b style="color:var(--fg)">sd-gen</b> and the <b style="color:var(--fg)">AI video factory</b> are public repositories where an AI pipeline runs unattended on CI.</p>
+    <ul class="ck">
+      <li><b>Absolute, relative and recurring schedules</b> that stay correct across timezones — the failure mode every automation gets wrong</li>
+      <li><b>First poll records a baseline</b>, so a newly connected source never floods your channel or your CRM with old records</li>
+      <li><b>Rate-limit aware retries</b> — a dropped connection stays pending and resumes instead of silently losing the work</li>
+      <li><b>40 automated tests</b>, standard library only — no network in the suite, so a green run actually means something</li>
+      <li><b>One runtime dependency, one SQLite file</b> — it installs anywhere Python runs, no orchestration platform required</li>
+      <li><b>Install docs and a 24/7 service setup</b> included, because an automation that quietly stops is worse than no automation</li>
+    </ul>
+    <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:22px">
+      <div class="price"><div class="n">$180</div><p>from — 3 to 7 days</p></div>
+      <div class="price"><div class="n">40</div><p>tests on every shipped workflow</p></div>
+      <div class="price"><div class="n">100%</div><p>workflow definitions handed over</p></div>
+    </div>
+    <div class="cta" style="margin-top:22px">
+      <a class="btn btn-s" href="https://github.com/Fyosamu/girih-exe">See public code →</a>
+      <a class="btn btn-s" href="mailto:hkay7645@gmail.com?subject=Workflow%20automation%20enquiry">Send us the workflow that keeps breaking</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <div class="steps">
+      <div class="step"><h4>You describe it</h4><p>One message: which tools, what triggers it, what "done" looks like. We ask back if anything's unclear — that question saves the project.</p></div>
+      <div class="step"><h4>Fixed quote</h4><p>Price and deadline in writing before we start. Scope is what kills automation projects, so it gets written down first.</p></div>
+      <div class="step"><h4>We build &amp; show</h4><p>You get a working workflow to poke at early — with a test run against real data — because changes are cheap before the last day.</p></div>
+      <div class="step"><h4>You get everything</h4><p>Workflow definitions, code, credentials handed back, deploy instructions and alerting so it fails loudly instead of quietly.</p></div>
+    </div>
+    <div class="note"><b>Payment:</b> USDT on BEP-20 (BNB Chain) or ERC-20 (Ethereum / Base / Polygon), or escrow on LaborX if you'd rather not send funds first. Not TRC-20 — that address does not exist on Tron.</div>
+  </section>
+
+  <section>
+    <h2>Questions people actually ask</h2>
+    <div class="faq">
+      <details><summary>Do we have to use n8n?</summary><p>No. Visual builders are right when the flow is linear and the connectors exist. When you hit rate limits, branching, custom auth or a retry the builder can't express, we drop to Python or Node. You own the instance and the workflow files either way.</p></details>
+      <details><summary>We have Zaps that keep breaking. Can you fix them?</summary><p>Send us the failing one. Most breakages are expired auth, pagination the trigger never handled, or a rate limit with no backoff. We fix the root cause and add retries plus alerting, so it fails loudly instead of quietly at 3am.</p></details>
+      <details><summary>Can you work with our AI provider?</summary><p>Yes — OpenAI, Anthropic, an open-weights model you host yourself, or whatever key you already have. Prompts, models and thresholds stay in config, so you can swap providers without a rewrite.</p></details>
+      <details><summary>Do you need access to our systems?</summary><p>Least privilege: a service account with the narrowest scope that works, secrets kept in your vault, and the workflow definitions handed back to you at the end. You can revoke everything the day we finish.</p></details>
+      <details><summary>How do you price an automation?</summary><p>Fixed quote after one message describing the workflow. If it turns out to be two projects, we say so and quote them separately rather than burying it in a number.</p></details>
+      <details><summary>Why do you only take crypto?</summary><p>We don't have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX. No invoices with a company name, no chargebacks.</p></details>
+    </div>
+  </section>
+
+  <section>
+    <div class="grid g3">
+      <div class="card"><h3>Bots</h3><p>Telegram, Discord and WhatsApp bots with payments and scheduling.</p><p style="margin-top:12px"><a href="/telegram-bot-development/">Bot development →</a></p></div>
+      <div class="card"><h3>Web development</h3><p>Theme-based or fully custom sites, stores and dashboards.</p><p style="margin-top:12px"><a href="/web-development/">Web development →</a></p></div>
+      <div class="card"><h3>Send us a client</h3><p>Bring a project and keep 15% of what we're paid.</p><p style="margin-top:12px"><a href="/partners/">Partner program →</a></p></div>
+    </div>
+    <div class="cta" style="margin-top:28px">
+      <a class="btn btn-p" href="mailto:hkay7645@gmail.com?subject=Workflow%20automation%20enquiry">Describe your workflow</a>
+      <a class="btn btn-s" href="https://fyosamu.github.io/">Back to the studio</a>
+    </div>
+  </section>
+</div>
+
+<footer class="wrap">
+  <div>© 2026 dazo — AI workflow automation, SaaS integrations &amp; internal tools.</div>
+  <div>Paid in USDT (BEP-20 / ERC-20) · <a href="mailto:hkay7645@gmail.com">hkay7645@gmail.com</a></div>
+</footer>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI workflow automation and SaaS integration",
+  "serviceType": "Workflow automation, SaaS integrations, AI agents and internal tools",
+  "provider": { "@type": "Organization", "name": "dazo", "url": "https://fyosamu.github.io/", "email": "hkay7645@gmail.com" },
+  "areaServed": "Worldwide",
+  "url": "https://fyosamu.github.io/ai-automation/",
+  "description": "AI workflow automation and SaaS integration: n8n, Make and Zapier pipelines, LLM agents and retrieval over your own documents, CRM sync, data pipelines, internal dashboards and ops alerting.",
+  "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "180", "description": "From $180, delivered in 3 to 7 days." },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "Do we have to use n8n?", "acceptedAnswer": { "@type": "Answer", "text": "No. Visual builders are right when the flow is linear and the connectors exist. When you hit rate limits, branching, custom auth or a retry the builder cannot express, we drop to Python or Node. You own the instance and the workflow files either way." } },
+      { "@type": "Question", "name": "We have Zaps that keep breaking. Can you fix them?", "acceptedAnswer": { "@type": "Answer", "text": "Send us the failing one. Most breakages are expired auth, pagination the trigger never handled, or a rate limit with no backoff. We fix the root cause and add retries plus alerting, so it fails loudly instead of quietly." } },
+      { "@type": "Question", "name": "Can you work with our AI provider?", "acceptedAnswer": { "@type": "Answer", "text": "Yes - OpenAI, Anthropic, an open-weights model you host yourself, or whatever key you already have. Prompts, models and thresholds stay in config, so you can swap providers without a rewrite." } },
+      { "@type": "Question", "name": "Do you need access to our systems?", "acceptedAnswer": { "@type": "Answer", "text": "Least privilege: a service account with the narrowest scope that works, secrets kept in your vault, and the workflow definitions handed back to you at the end." } },
+      { "@type": "Question", "name": "How do you price an automation?", "acceptedAnswer": { "@type": "Answer", "text": "Fixed quote after one message describing the workflow. If it turns out to be two projects, we say so and quote them separately rather than burying it in a number." } },
+      { "@type": "Question", "name": "Why do you only take crypto?", "acceptedAnswer": { "@type": "Answer", "text": "We do not have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX. No invoices with a company name, no chargebacks." } }
+    ]
+  }
+}
+</script>
+
+</body>
+</html>
