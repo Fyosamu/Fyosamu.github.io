@@ -30,6 +30,7 @@
 body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
 p a,.note a,footer a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .wrap{max-width:940px;margin:0 auto;padding:0 22px}
 header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
@@ -115,7 +116,7 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-siz
     <div class="tbl-scroll">
       <table>
         <thead>
-          <tr><th>Service</th><th>Price</th><th>Delivery</th><th></th></tr>
+          <tr><th>Service</th><th>Price</th><th>Delivery</th><th><span class="sr-only">Order</span></th></tr>
         </thead>
         <tbody>
           <tr>
