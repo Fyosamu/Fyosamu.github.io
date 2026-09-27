@@ -15,12 +15,12 @@ This repository is the whole site: plain static HTML, no framework, no build ste
 
 | Service | Price | Turnaround |
 |---|---|---|
-| Custom website (theme or fully bespoke) | **$450** | 5–7 days |
-| Existing website → Android / iOS app | **$600** | 5–10 days |
-| Telegram or Discord bot | **$350** | 3–7 days |
-| AI workflow automation | **$550** | 5–10 days |
-| Technical SEO audit and fixes | **$300** | 3–5 days |
-| Speed optimisation (Core Web Vitals) | **$250** | 2–4 days |
+| Custom website (theme or fully bespoke) | **$450** | 3–7 days |
+| Existing website → Android / iOS app | **$600** | 4–8 days |
+| Telegram or Discord bot | **$350** | 2–5 days |
+| AI workflow automation | **$550** | 3–7 days |
+| Technical SEO audit and fixes | **$300** | scoped per site |
+| Speed optimisation (Core Web Vitals) | **$250** | 1–3 days |
 | Care plan — updates, backups, fixes | **$90 / mo** | ongoing |
 
 Prices are **fixed-scope and published up front**. No discovery call needed to see a number.
