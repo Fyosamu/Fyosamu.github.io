@@ -26,6 +26,7 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+p a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
 .wrap{max-width:960px;margin:0 auto;padding:0 22px}
 header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
@@ -84,6 +85,8 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-siz
   <div class="brand">dazo<span>.</span></div>
   <a class="back" href="/">← All services</a>
 </div></header>
+
+<main>
 
 <div class="wrap">
   <section class="hero" style="border:0">
@@ -186,6 +189,8 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-siz
     </div>
   </section>
 </div>
+
+</main>
 
 <footer class="wrap">
   <div>© 2026 dazo — web development services.</div>
