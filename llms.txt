@@ -10,6 +10,9 @@ There is no order form, no checkout and no account on this site — that is deli
 - [Website to mobile app](https://fyosamu.github.io/website-to-app/): turn an existing website into an Android and iOS app with push notifications and offline loading, from $600, delivered in 4–8 days.
 - [Telegram and chat bot development](https://fyosamu.github.io/telegram-bot-development/): Telegram, Discord and WhatsApp bots — moderation, payment gates, RSS auto-posting, mini-apps — from $350, delivered in 2–5 days.
 - [AI workflow automation](https://fyosamu.github.io/ai-automation/): n8n / Make / Zapier pipelines, LLM agents and RAG over your own documents, CRM sync, internal tools, from $550, delivered in 3–7 days.
+- [Technical SEO audit and fixes](https://fyosamu.github.io/technical-seo/): crawlability, indexing, schema markup, internal linking and content structure, with the fixes applied rather than just listed. From $300, scoped per site.
+- [Speed optimisation](https://fyosamu.github.io/speed-optimization/): Core Web Vitals, image pipelines, critical CSS, caching, CDN and bundle trimming, with a Lighthouse run before and after. From $250, delivered in 1–3 days.
+- [Website care plan](https://fyosamu.github.io/website-care-plan/): backups, updates, security hardening, uptime monitoring and human support. $90 per month, cancel whenever.
 
 ## Pricing and ordering
 

@@ -50,9 +50,13 @@ Both are **also open source**: **[github.com/Fyosamu/dazo-cost-calculators](http
 | `/website-to-app/` | Turn an existing site into an app |
 | `/telegram-bot-development/` | Bots for Telegram and Discord |
 | `/ai-automation/` | AI workflow automation and SaaS integrations |
+| `/technical-seo/` | Technical SEO audit, schema, crawlability and fixes |
+| `/speed-optimization/` | Speed optimisation and Core Web Vitals work |
+| `/website-care-plan/` | Care plan — backups, patches, monitoring, support |
 | `/partners/` | Referral program — keep **15%** of the fee |
 | `/tools/website-cost-calculator/` | Free website pricing tool |
 | `/tools/telegram-bot-cost-calculator/` | Free bot pricing tool |
+| `/llms.txt` | AI-crawler summary of the whole site |
 | `/assets/resume.pdf` | Stable, linkable CV URL |
 
 ---
@@ -72,9 +76,10 @@ python -m http.server 8080
 ```
 portfolio/
 ├── index.html                          home
-├── robots.txt                          crawl rules + sitemap pointer
+├── robots.txt                          crawl rules + sitemap + llms.txt pointer
 ├── sitemap.xml                         all indexable URLs
 ├── indexnow-key.txt                    IndexNow verification
+├── llms.txt                            AI-crawler summary of the site
 ├── assets/
 │   ├── og-card.jpg                     social share image (1200×630)
 │   └── resume.pdf                      published CV
@@ -82,6 +87,9 @@ portfolio/
 ├── website-to-app/                     service page
 ├── telegram-bot-development/           service page
 ├── ai-automation/                      service page
+├── technical-seo/                      service page
+├── speed-optimization/                 service page
+├── website-care-plan/                  service page
 ├── partners/                           referral program
 ├── pricing/                            complete published price list
 └── tools/
