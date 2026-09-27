@@ -1,0 +1,29 @@
+# dazo — fixed-price remote build studio
+
+> dazo builds websites, mobile apps, chat bots and AI workflows, and fixes technical SEO and page speed, at a published fixed price with the delivery window agreed before the project starts. Everything is ordered by email: hkay7645@gmail.com
+
+There is no order form, no checkout and no account on this site — that is deliberate. Every page ends at the same email address, written as plain text so it can be typed by hand. Payment is USDT on BEP-20 or ERC-20 only, never TRC-20.
+
+## Services
+
+- [Website development](https://fyosamu.github.io/web-development/): custom websites, e-commerce stores, corporate sites, SaaS dashboards and landing pages. Theme-based or fully bespoke, from $450, delivered in 3–7 days, source handed over.
+- [Website to mobile app](https://fyosamu.github.io/website-to-app/): turn an existing website into an Android and iOS app with push notifications and offline loading, from $600, delivered in 4–8 days.
+- [Telegram and chat bot development](https://fyosamu.github.io/telegram-bot-development/): Telegram, Discord and WhatsApp bots — moderation, payment gates, RSS auto-posting, mini-apps — from $350, delivered in 2–5 days.
+- [AI workflow automation](https://fyosamu.github.io/ai-automation/): n8n / Make / Zapier pipelines, LLM agents and RAG over your own documents, CRM sync, internal tools, from $550, delivered in 3–7 days.
+
+## Pricing and ordering
+
+- [Pricing](https://fyosamu.github.io/pricing/): every price in one place — website $450, site to app $600, chat bots $350, AI automation $550, technical SEO $300, speed optimisation $250, care plan $90 per month. No discovery call is needed to see a number.
+- [Home](https://fyosamu.github.io/): service overview, technical SEO and performance work, and the products available to buy right now.
+- [Partner program](https://fyosamu.github.io/partners/): bring a project, keep 15% of the fee, paid in USDT within 24 hours of the payment clearing.
+
+## Free tools
+
+- [Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/): pick a scope, get an instant fixed price in USD and USDT plus the typical market range for comparison. No email required.
+- [Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/): choose features and message volume, get the build price and a realistic monthly hosting estimate.
+
+## Optional
+
+- [dazo-cost-calculators](https://github.com/Fyosamu/dazo-cost-calculators): MIT-licensed source of the two calculators above — single-file, no dependencies, no analytics, the maths runs in the browser.
+- [GitHub profile](https://github.com/Fyosamu): public repositories, including the site source.
+- Contact: hkay7645@gmail.com — plain text on purpose, so it can be copied or typed by hand.

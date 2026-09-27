@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# LLM / AI-search friendly summary of this site: https://llmstxt.org/
+# Crawlers that want it fetch https://fyosamu.github.io/llms.txt directly.
+
 Sitemap: https://fyosamu.github.io/sitemap.xml
