@@ -26,7 +26,7 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
-p a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
+p a,.note a,footer a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
 .wrap{max-width:940px;margin:0 auto;padding:0 22px}
 header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
@@ -59,7 +59,7 @@ ul.ck li b{color:var(--fg);font-weight:650}
 .steps{counter-reset:s;display:grid;gap:15px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
 .step{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:21px}
 .step:before{counter-increment:s;content:"0" counter(s);display:block;font-size:13px;font-weight:700;color:var(--acc);margin-bottom:8px;letter-spacing:.08em}
-.step h4{margin:0 0 6px;font-size:16px;font-weight:650}
+.step h3{margin:0 0 6px;font-size:16px;font-weight:650}
 .step p{margin:0;color:var(--mut);font-size:14.3px}
 .faq{display:grid;gap:13px}
 .faq details{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:17px 20px}
@@ -137,10 +137,10 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-siz
   <section>
     <h2>How it works</h2>
     <div class="steps">
-      <div class="step"><h4>You send the URL</h4><p>One link is enough to start. If you can share Search Console access, even read-only, the audit gets much sharper.</p></div>
-      <div class="step"><h4>Scope and fixed price</h4><p>We tell you what we found, what is worth fixing and what is not, then quote it flat. From $300, scoped per site.</p></div>
-      <div class="step"><h4>We fix it</h4><p>Schema, canonicals, internal links, sitemaps, template markup and content structure — applied directly, not documented and abandoned.</p></div>
-      <div class="step"><h4>Re-run and hand over</h4><p>The crawl runs again so you can see what moved, plus the notes you need to keep it that way.</p></div>
+      <div class="step"><h3>You send the URL</h3><p>One link is enough to start. If you can share Search Console access, even read-only, the audit gets much sharper.</p></div>
+      <div class="step"><h3>Scope and fixed price</h3><p>We tell you what we found, what is worth fixing and what is not, then quote it flat. From $300, scoped per site.</p></div>
+      <div class="step"><h3>We fix it</h3><p>Schema, canonicals, internal links, sitemaps, template markup and content structure — applied directly, not documented and abandoned.</p></div>
+      <div class="step"><h3>Re-run and hand over</h3><p>The crawl runs again so you can see what moved, plus the notes you need to keep it that way.</p></div>
     </div>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:22px">
       <div class="price"><div class="n">$300</div><p>from — scoped per site</p></div>

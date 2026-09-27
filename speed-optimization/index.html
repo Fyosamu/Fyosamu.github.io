@@ -26,7 +26,7 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
-p a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
+p a,.note a,footer a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
 .wrap{max-width:940px;margin:0 auto;padding:0 22px}
 header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
@@ -59,7 +59,7 @@ ul.ck li b{color:var(--fg);font-weight:650}
 .steps{counter-reset:s;display:grid;gap:15px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
 .step{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:21px}
 .step:before{counter-increment:s;content:"0" counter(s);display:block;font-size:13px;font-weight:700;color:var(--acc);margin-bottom:8px;letter-spacing:.08em}
-.step h4{margin:0 0 6px;font-size:16px;font-weight:650}
+.step h3{margin:0 0 6px;font-size:16px;font-weight:650}
 .step p{margin:0;color:var(--mut);font-size:14.3px}
 .faq{display:grid;gap:13px}
 .faq details{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:17px 20px}
@@ -144,10 +144,10 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-siz
   <section>
     <h2>How it works</h2>
     <div class="steps">
-      <div class="step"><h4>Send the URL</h4><p>We run the audit and tell you which of the four causes is actually costing you time on your site.</p></div>
-      <div class="step"><h4>Fixed quote</h4><p>Flat price before any work starts. From $250, delivered in 1 to 3 days.</p></div>
-      <div class="step"><h4>We optimise</h4><p>Media, render path, bundle and server response — in your codebase, with the changes visible in version history.</p></div>
-      <div class="step"><h4>Measure again</h4><p>A second Lighthouse run at handover, with the numbers written into the delivery note alongside the first.</p></div>
+      <div class="step"><h3>Send the URL</h3><p>We run the audit and tell you which of the four causes is actually costing you time on your site.</p></div>
+      <div class="step"><h3>Fixed quote</h3><p>Flat price before any work starts. From $250, delivered in 1 to 3 days.</p></div>
+      <div class="step"><h3>We optimise</h3><p>Media, render path, bundle and server response — in your codebase, with the changes visible in version history.</p></div>
+      <div class="step"><h3>Measure again</h3><p>A second Lighthouse run at handover, with the numbers written into the delivery note alongside the first.</p></div>
     </div>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:22px">
       <div class="price"><div class="n">$250</div><p>from — 1 to 3 days</p></div>
