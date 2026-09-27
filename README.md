@@ -36,6 +36,8 @@ Two calculators that live on the site. Both run entirely in the browser — no t
 - **[Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/)** — scope in, price out in USD and USDT, with the typical market range for comparison.
 - **[Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/)** — features and message volume in, build price and monthly hosting out.
 
+Both are **also open source**: **[github.com/Fyosamu/dazo-cost-calculators](https://github.com/Fyosamu/dazo-cost-calculators)** — MIT, one HTML file each, no dependencies. Fork it, change one price table, host it yourself.
+
 ---
 
 ## Pages
