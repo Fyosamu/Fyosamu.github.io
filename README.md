@@ -1,7 +1,7 @@
 # dazo — websites, bots and automation
 
 [![Website](https://img.shields.io/badge/website-fyosamu.github.io-4dd4ac?style=flat-square)](https://fyosamu.github.io/)
-[![Price](https://img.shields.io/badge/from-%24150%20fixed-7aa2ff?style=flat-square)](https://fyosamu.github.io/)
+[![Price](https://img.shields.io/badge/from-%24450%20fixed-7aa2ff?style=flat-square)](https://fyosamu.github.io/pricing/)
 [![Payment](https://img.shields.io/badge/payment-USDT%20%7C%20BEP--20%20%C2%B7%20ERC--20-ffb454?style=flat-square)](https://fyosamu.github.io/#contact)
 [![Referral](https://img.shields.io/badge/referral-15%25%20of%20fee-4dd4ac?style=flat-square)](https://fyosamu.github.io/partners/)
 
@@ -43,6 +43,7 @@ Two calculators that live on the site. Both run entirely in the browser — no t
 | Path | Purpose |
 |---|---|
 | `/` | Home, service overview, contact |
+| `/pricing/` | **The complete published price list** — order by email |
 | `/web-development/` | Custom website builds |
 | `/website-to-app/` | Turn an existing site into an app |
 | `/telegram-bot-development/` | Bots for Telegram and Discord |
@@ -80,6 +81,7 @@ portfolio/
 ├── telegram-bot-development/           service page
 ├── ai-automation/                      service page
 ├── partners/                           referral program
+├── pricing/                            complete published price list
 └── tools/
     ├── website-cost-calculator/        free tool
     └── telegram-bot-cost-calculator/   free tool
