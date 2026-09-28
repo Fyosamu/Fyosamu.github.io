@@ -1,0 +1,2086 @@
+# dazo — full site content
+
+> Every page of https://fyosamu.github.io as plain text, generated from the HTML by
+> make_llms_full.py so it cannot drift from what the site says. Read
+> llms.txt first if you want the short version.
+>
+> Prices are given as ranges, not single figures: scope decides where a
+> project lands inside them. Nothing is ordered on the site — every
+> path ends at one address, hkay7645@gmail.com.
+
+## Pages
+
+- [Homepage](https://fyosamu.github.io/)
+- [Pricing](https://fyosamu.github.io/pricing/)
+- [Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/)
+- [Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/)
+- [AI workflow automation](https://fyosamu.github.io/ai-automation/)
+- [Web development](https://fyosamu.github.io/web-development/)
+- [Website to app](https://fyosamu.github.io/website-to-app/)
+- [Telegram, Discord and WhatsApp bots](https://fyosamu.github.io/telegram-bot-development/)
+- [Partner and referral program](https://fyosamu.github.io/partners/)
+- [Technical SEO](https://fyosamu.github.io/technical-seo/)
+- [Speed optimization](https://fyosamu.github.io/speed-optimization/)
+- [Website care plan](https://fyosamu.github.io/website-care-plan/)
+
+---
+
+## Homepage
+
+https://fyosamu.github.io/
+
+Custom Websites, Bots & SEO for Companies | dazo
+
+     Available for new projects · paid in crypto
+
+# Custom websites, bots and SEO — shipped, not slideware
+
+dazo is a remote build studio working with companies and agencies abroad. Theme or fully custom websites, site-to-app conversions, Telegram and Discord bots, and technical SEO that actually moves rankings. You get the source, the docs and a deploy you can run.
+
+      Start a project
+      Bring us a client — keep 15%
+
+USDTcrypto payment, no bank needed
+
+< 24hfirst reply, always
+
+Sourcehanded over, no lock-in
+
+Escrowon LaborX
+
+## What we take off your plate
+
+Seven things we do repeatedly and well. Pick one, or hand us the whole problem.
+
+        AI
+
+### AI workflow automation
+
+Integrations between your SaaS tools, LLM agents over your own documents, data sync, internal dashboards and ops alerting. Built on n8n, Make or plain Python when the visual builder hits a wall — workflow definitions handed over.
+
+Workflow automation →
+
+$900 – $3,000 — 3 to 7 days
+
+        Web
+
+### Websites: theme or custom
+
+E-commerce, corporate sites, marketplaces, landing pages and blogs. Start from a proven theme when budget and speed matter, or go fully bespoke when the brand demands it. Responsive, accessible and SEO-ready by default.
+
+Web development services →
+
+$750 – $2,500 — 3 to 7 days
+
+        App
+
+### Turn your site into an app
+
+Already have a website? We convert it into an Android and iOS app — wrapped PWA or a real native shell — with push notifications, offline loading and store submission. Same content, one less browser tab.
+
+Website to app conversion →
+
+$1,000 – $3,200 — 4 to 8 days
+
+        Bots
+
+### Telegram, Discord & WhatsApp bots
+
+Summarisers, moderation, payment gates, channel automation, mini-apps and RSS auto-posting. Built on Python or Node with a clean config, so you can change things yourself later.
+
+Bot development →
+
+$600 – $1,800 — 2 to 5 days
+
+        SEO
+
+### SEO that moves rankings
+
+Technical audits, Core Web Vitals, schema markup, internal linking, crawl budget, sitemaps and content structure. We fix what the search console actually complains about — then show before/after numbers.
+
+Technical SEO services →
+
+$500 – $1,500 — scoped per site
+
+        Speed
+
+### Performance & Core Web Vitals
+
+Image pipelines, critical CSS, caching, CDN setup and bundle trimming. Lighthouse is checked before handover and the score is written into the delivery note — a measured number, not a promise.
+
+Speed optimisation →
+
+$400 – $1,200 — 1 to 3 days
+
+        Care
+
+### Security, support & maintenance
+
+Hardening, backups, uptime monitoring, dependency patches and a human who answers after launch. Monthly retainers so the site doesn't quietly rot while nobody's looking.
+
+Website care plan →
+
+$150 – $400/mo — ongoing
+
+## Price your own project, right now
+
+Two free calculators. No email gate, no tracking, nothing sent anywhere — they run in your browser and give you a number before you talk to anyone.
+
+        Free tool
+
+### Website cost calculator
+
+Pick the scope and every feature you need. Get an instant price in USD and USDT, plus the typical market range so you can tell whether a quote you already received is fair.
+
+open the calculator →
+
+        Free tool
+
+### Telegram bot cost calculator
+
+Features and message volume in, build price out — with a realistic monthly hosting estimate and what an agency would charge for the same bot.
+
+open the calculator →
+
+        Published
+
+### Every price, without the call
+
+Website $750 – $2,500 · site to app $1,000 – $3,200 · bots $600 – $1,800 · AI automation $900 – $3,000 · SEO $500 – $1,500 · speed $400 – $1,200 · care $150 – $400 per month. Fixed scope, quoted before work starts, paid in USDT.
+
+all services — see the list above
+
+## Specialist teams, one per niche
+
+We don't send a generalist at a vertical we've never shipped. Each niche has its own bench of specialists, so whoever builds your project has built that exact kind of thing before.
+
+      E-commerce & stores
+      Corporate & marketing sites
+      Marketplaces
+      SaaS & dashboards
+      Publishers & blogs
+      Booking & services
+      Education & courses
+      Real estate
+      Food & hospitality
+      Portfolios & personal brands
+      Crypto & Web3
+      Non-profit
+
+Niche not listed? Say so anyway. If we're not the right team for it, we'll tell you in the first reply instead of taking the money and learning on your project.
+
+## Real projects, already built
+
+Not concepts. These are live repositories with committed code you can open before we talk.
+
+### NovaBits — digital store
+
+LIVE
+
+Premium WordPress-theme store with crypto payments, lifetime updates and instant delivery. Full storefront, checkout and legal pages.
+
+HTML/CSSE-commerceCrypto checkout
+
+        Live demo →
+        Source →
+
+### AI Tool Scout — content site
+
+LIVE
+
+Generated static site for AI-tool reviews and comparisons. Dependency-free Node build — no npm packages at all, so nothing to break.
+
+Node 18StaticSEO100/100/100
+
+        Live demo →
+        Source →
+
+### VERA Atelier — clothing store
+
+LIVE
+
+Calm, modern clothing store: women, men, shoes, accessories, kids. Category browsing, product grid and a considered editorial layout.
+
+Static siteResponsiveDesign
+
+        Live demo →
+        Source →
+
+### dazo — AI video factory
+
+REPO
+
+Automated video pipeline: MoneyPrinterTurbo plus a Telegram bot, wired together and run from GitHub Actions on a schedule.
+
+PythonTelegram botGitHub Actions
+
+        github.com/Fyosamu/dazo-ai-video →
+
+### Nyx — anti-censorship suite
+
+REPO
+
+Xray management suite: VLESS REALITY, XHTTP, Quantum MultiPath, dynamic auto-failover and a WARP mesh. Infrastructure, not a website.
+
+NetworkingXrayOps
+
+        github.com/Fyosamu/nyx →
+
+### sd-gen — image gen on CI
+
+REPO
+
+SDXL text-to-image running entirely on GitHub Actions — generated images without paying for GPU credits.
+
+PythonSDXLCI/CD
+
+        github.com/Fyosamu/sd-gen →
+
+### insta-webdesign — content pipeline
+
+REPO
+
+Automated Instagram pipeline: Gemini writes the copy, Pillow and ffmpeg render 1080×1350 posts and subtitled reels, and Meta's official Graph API publishes on a GitHub Actions schedule — with a committed seen-state so no hook is ever reused.
+
+PythonGraph APIGitHub Actions
+
+        github.com/Fyosamu/insta-webdesign →
+
+### dazo-cost-calculators — free pricing tools
+
+OPEN SOURCE
+
+The MIT-licensed source behind both calculators above: one HTML file each, no dependencies, no analytics, the maths runs in your browser — published as GitHub Release v1.0.0.
+
+MITNo dependenciesRelease v1.0.0
+
+        github.com/Fyosamu/dazo-cost-calculators →
+
+## Products you can buy right now
+
+Already built, already tested. No scoping call, no waiting — pay and the files are yours the same day.
+
+### GIRIH.EXE — generative NFT collection
+
+FOR SALE
+
+Ten 1024×1024 artworks generated from Persian girih tilework geometry. Deterministic seed, so anyone can reproduce the exact output — and it ships with an ERC-721 contract (ERC-2981 royalties, max supply 10) that passes 28 on-chain tests.
+
+PIL / NumPySolidity 0.8.24OpenZeppelin 5.6ERC-2981
+
+        Art, generator & contract →
+
+50 USDT — per piece · 10 pieces in the drop
+
+### PostPilot — Telegram scheduler bot
+
+FOR SALE
+
+A framework-free Python bot that schedules posts to any Telegram channel and auto-publishes new RSS/Atom items. One runtime dependency, one SQLite file, and a test suite that runs on the standard library alone.
+
+PythonSQLiteRSS / Atom40 tests
+
+- Absolute, relative and recurring schedules — timezone-correct
+
+- First RSS poll only records a baseline, so old articles never flood the channel
+
+- Rate-limit aware: retries instead of dropping, network hiccups stay pending
+
+- Ships with install docs, 24/7 service setup and the full test run
+
+        Ask for the source & test run →
+
+$79 — source + docs, delivered same day
+
+How to buy: mail hkay7645@gmail.com and say which one you want. Payment in USDT (BEP-20 / ERC-20) — never TRC-20, that address does not exist on Tron.
+
+      15%
+
+## Bring us a client. Keep 15% of the fee.
+
+Agencies, freelancers, media buyers, community owners — if you can put a real project in front of us, you earn on every payment we clear. No cost, no exclusivity, and nothing you have to sell yourself.
+
+### You introduce
+
+One email with the client's need, or just forward theirs. You don't write the proposal — we do that.
+
+### We quote & build
+
+We scope it, price it and deliver it. Stay in the loop or stay out of it entirely — your call.
+
+### Client pays
+
+Payment clears in USDT or on escrow. Every payment is visible to you, on-chain.
+
+### You get paid
+
+15% of what we received, sent to your wallet within 24 hours of the payment clearing.
+
+- 15% of every payment we receive from the project you introduced
+
+- Paid in USDT — BEP-20 or ERC-20, straight to your wallet
+
+- Nothing to sell — no quotas, no exclusivity, no upfront cost
+
+- White-label friendly — if you're an agency, we never contact your client unless you ask us to
+
+- Terms in writing before the first project, so nobody argues later
+
+- One project or a steady flow — both are fine
+
+Marketing & ad agenciesOverflow demand you don't have devs for.
+
+Freelancers who don't codeYou close the deal, we build it.
+
+Community & channel ownersAn audience is already half the sale.
+
+Consultants & media buyersAdd a build arm without hiring one.
+
+Web design studiosYou design, we build under your brand.
+
+        Become a partner
+        Ask for the referral terms
+        How the program works
+
+Agencies: we'll sign a short referral agreement before the first project — scope, payment schedule, what you're owed and when. You're a partner, not a sales rep and not an employee.
+
+## How it works
+
+Short, because it should be. No forms to fill, no calls to schedule before we've even agreed it's a fit.
+
+### You describe it
+
+One message with what you want and when you need it. We reply with questions if anything's unclear.
+
+### Fixed quote
+
+A price and a deadline, in writing, before anything starts. You know the number up front.
+
+### We build & show
+
+You get a preview link early — not a surprise at the end. We adjust while it's still cheap to adjust.
+
+### You get everything
+
+Source code, setup docs and the deploy. Payment releases on escrow once you're happy.
+
+      Payment is in crypto only: USDT on BEP-20 (BNB Chain) or ERC-20 (Ethereum / Base / Polygon) to the address below, or through escrow on LaborX if you'd rather not send funds first. No bank transfer, no PayPal, no card processor, no company invoices — which is exactly why we work this way. Not TRC-20: that wallet address does not exist on Tron.
+
+## Tell us what you need built
+
+Message us with a sentence or two — as a client, or as a partner bringing a project. You'll get a real reply with a real price, not a questionnaire.
+
+There is no order form on this site, and that is deliberate. To place an order, open your own mail app and write to hkay7645@gmail.com — type it yourself or copy it, either works. Send a sentence or two about what you need and you get a fixed price and a delivery date back. No form to fill, no account to make, no call to schedule first.
+
+          Email
+          hkay7645@gmail.com
+          Copy email
+
+          GitHub
+          github.com/Fyosamu
+
+          USDT — BEP-20 / ERC-20 only
+          0xE1E3e1c2978c74f43Bb095023135C3278303aF34
+          Copy address
+
+        Send a message
+        I want to refer a project
+
+© 2026 dazo — websites, apps, bots & SEO.
+
+Remote · paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Pricing
+
+https://fyosamu.github.io/pricing/
+
+Pricing — Every Price Published, Order by Email | dazo
+
+    Pricing · no call required
+
+# Every price, published
+
+The whole price list, on one page, with no asterisks and no "starting at". Look at it, decide, and if it fits — email us. You never have to book a call to find out what something costs.
+
+      Place an order by email
+      See the prices
+
+## The complete price list
+
+Ranges, not guesses — where a project lands depends on scope. Every project then gets one fixed number in writing before anything starts, and that number is what you pay. No hourly billing running in the background.
+
+          ServicePriceWhat decides itDeliveryOrder
+
+            Custom websiteTheme-based or fully bespoke — stores, landing pages, company sites
+            $750 – $2,500
+            Pages, custom features and integrations — payments, booking, CRM
+            3–7 days
+            order →
+
+            Existing website → Android / iOS appPackage your live site as a real app, with push notifications
+            $1,000 – $3,200
+            Offline scope, native APIs, and whether you need both platforms
+            4–8 days
+            order →
+
+            Telegram or Discord botModeration, payments, RSS posting, mini-apps, internal tools
+            $600 – $1,800
+            Which features, and the message volume it has to handle daily
+            2–5 days
+            order →
+
+            AI workflow automationLead capture, document processing, scheduled agents, SaaS integrations
+            $900 – $3,000
+            How many systems it connects, and how much volume flows through
+            3–7 days
+            order →
+
+            Technical SEO audit and fixesSchema, crawlability, internal linking, indexing, content structure
+            $500 – $1,500
+            Size of the site, and how much of the audit you want fixed
+            scoped per site
+            order →
+
+            Speed optimisationCore Web Vitals, caching, image pipelines, bundle trimming
+            $400 – $1,200
+            How far behind it is, and how much third-party weight it carries
+            1–3 days
+            order →
+
+            Care planUpdates, backups, uptime monitoring, dependency patches, human support
+            $150 – $400per month
+            How many sites are covered, and how fast you need a response
+            ongoing
+            order →
+
+No order form on this site, on purpose. Every "order →" link above opens your own mail app. If you would rather not click through, the address is written out in full further down the page — type it into any mail client and it works just the same.
+
+## How an order actually happens
+
+Four steps, and only the first one is yours.
+
+        You
+
+### 1. You email
+
+A sentence or two is enough. What you want built, and when you need it. No form with twelve fields, no questionnaire, no call to schedule first.
+
+        Us
+
+### 2. You get a number
+
+A fixed price and a delivery date, usually the same day. If the price from the table above applies, we say so. If your scope is bigger, we explain exactly what changed.
+
+        Us
+
+### 3. We build
+
+Work starts after you agree the number in writing. You see progress as it happens rather than hearing about it at the end.
+
+        You
+
+### 4. You pay in USDT
+
+BEP-20 or ERC-20 — never TRC-20, that address does not exist on Tron. The amount is fixed before we start, so nothing moves during the project.
+
+        Us
+
+### Source handed over
+
+Repository and deployment are yours. You are never renting your own project back from us.
+
+        Optional
+
+### Care plan after launch
+
+Backups, patches, uptime monitoring and a human who answers. $150 – $400 a month, cancel whenever.
+
+## Want a number before you email?
+
+Two free calculators do what this page does, but for your specific scope instead of the standard packages. No email gate, no tracking — the maths runs in your browser.
+
+        Free tool
+
+### Website cost calculator
+
+Pick the project type and every feature you need. Instant price in USD and USDT, plus the typical market range so you can check a quote you already received.
+
+        Free tool
+
+### Telegram bot cost calculator
+
+Features and message volume in, build price and realistic monthly hosting out. The hosting line is the number people always underestimate.
+
+        Refer
+
+### Send us a client, keep 15%
+
+If you would rather not build anything yourself: bring a project and earn 15% of the fee. No exclusivity, no cap, no minimum volume.
+
+Partner program →
+
+## Straight answers
+
+        Why are the prices fixed and published?
+
+Because the usual agency dance — contact form, discovery call, forty-five minutes, then a number — wastes everyone's afternoon and usually ends in a quote nobody compares. Publishing the list filters out the people who were never going to buy and gets the ones who were straight to a decision.
+
+        Do I have to book a call to see a price?
+
+No. That is the entire point of this page. If the price fits, email us; if it doesn't, you found out in thirty seconds instead of an hour.
+
+        How do I place an order?
+
+You email hkay7645@gmail.com — type it into your own mail app, or use any "order →" link on this page. Send what you need and when you need it, and you get a fixed price and a delivery date back. There is no checkout, no account, and no payment taken before you have agreed the number.
+
+        Why is payment in USDT?
+
+Because cards and PayPal are unreliable or simply unavailable in the countries many of our clients work from. We take BEP-20 or ERC-20 only — never TRC-20, because that address does not exist on Tron and the transfer would be lost.
+
+        What if my project is bigger than these packages?
+
+Email the scope anyway. Larger work is quoted the same way: a fixed number agreed up front, broken into stages if that is easier. The price list is a starting point, not a ceiling.
+
+        What if I want someone else to send you the client?
+
+The partner program pays 15% of the fee on anything you send our way, with no cap and no exclusivity. It is described on the partners page.
+
+      One sentence is enough
+
+## Place an order by email
+
+Tell us what you need built and when you need it. You get a fixed price and a delivery date back — usually the same day, always before anything is paid.
+
+      hkay7645@gmail.com
+
+Click it to open your mail app, or select it and type it yourself — it works either way.
+
+        Write to us
+        Refer a project, keep 15%
+
+Paid in USDT — BEP-20 or ERC-20 only, never TRC-20.
+
+© 2026 dazo — websites, apps, bots & SEO.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Website cost calculator
+
+https://fyosamu.github.io/tools/website-cost-calculator/
+
+Website Cost Calculator — Instant Quote in USD & USDT
+
+    Free tool · no email required
+
+# Website Cost Calculator
+
+Pick the scope of your project and get an instant price in USD and USDT, plus the typical market range so you can tell whether a quote you already received is fair.
+
+Nothing is sent anywhere. The estimate is calculated in your browser.
+
+        1 — What are you building?
+
+          Landing page — one page, one goal
+          Business website — 5–10 pages
+          Online store — products, cart, checkout
+          Web application / dashboard
+          Existing site → keep it, fix and extend it
+
+        2 — What does it need?
+
+          Mobile responsiveIncluded on every build
+          Technical SEO setupSchema, sitemap, indexing
+          CMS — you edit it yourselfNo developer needed later
+          Blog / articles sectionIndexable, shareable content
+          MultilingualSecond language throughout
+          Custom animations / motionScroll, transitions, micro-detail
+          Analytics & conversion trackingKnow which visit became money
+          Speed optimisationCore Web Vitals pass
+
+        3 — Do you also want it as a mobile app?
+
+          No — website only
+          Yes — package it as an Android app
+          Yes — Android and iOS
+
+        4 — Ongoing care after launch
+
+          None — I will handle it
+          Updates, backups and fixes — $150 – $400 / month
+
+Your estimate
+
+$750 – $2,500fixed price, no hourly surprises
+
+Payable in USDT — 750 USDT (BEP-20 or ERC-20, never TRC-20)
+
+Delivery: about 3–7 days
+
+Market range for this scope
+
+Freelance platform$400 – $900
+
+fixed-scope, mid-tier
+
+Small agency$1,800 – $4,500
+
+dazo$750 – $2,500
+
+          Get this quote confirmed
+          Refer it, keep 15%
+
+Market ranges are indicative only — they vary widely by region, agency size and how much discovery work is included. They exist here so you can check a quote, not as a promise from anyone. The dazo figure is our actual published price.
+
+## What actually drives the price
+
+Three things move a website quote more than everything else combined.
+
+        Scope, not pages
+        A 40-page brochure site can be cheaper than a 6-page one if the 6 pages need a booking engine. Count features, not URLs.
+
+        Anything with a login
+        Accounts, dashboards and data change the class of the work entirely. That is where most overruns happen.
+
+        What runs after launch
+        Lead capture, document processing and scheduled agents cost less than people assume and save far more than they cost.
+
+## Published prices — no call needed to see them
+
+ServicePriceTurnaround
+
+          Custom website (theme or fully bespoke)$750 – $2,5003–7 days
+
+          Existing website → Android / iOS app$1,000 – $3,2004–8 days
+
+          Telegram or Discord bot$600 – $1,8002–5 days
+
+          Technical SEO audit and fixes$500 – $1,500scoped per site
+
+          Speed optimisation (Core Web Vitals)$400 – $1,2001–3 days
+
+          AI workflow automation$900 – $3,0003–7 days
+
+          Care plan — updates, backups, fixes$150 – $400 / moongoing
+
+All prices are fixed-scope and quoted before work starts. Payment in USDT (BEP-20 / ERC-20).
+
+## Questions this calculator cannot answer
+
+### Why is a website ever $750 – $2,500?
+
+Because it is one person with no account managers, no sales commission and no office overhead, using a proven build instead of rebuilding the wheel every time. What you do not pay for is the agency around the work. What you still get is the same deliverable and the same accountability.
+
+### What makes a quote jump from the low end to the high end?
+
+Logins, payments and integrations. Anything that has to remember who you are, take money, or talk to another system roughly doubles the work behind a page, and the estimate above reflects that.
+
+### Is USDT payment actually workable for a business?
+
+Yes, and it is the only way we can take payment reliably from several countries. We use BEP-20 or ERC-20 only — never TRC-20, because the fee behaviour and support vary too much. You receive a wallet address and a fixed amount before anything starts.
+
+### Do I need to book a call to get the real price?
+
+No. That is the point of this page. Send the scope, get the number, decide. If the number does not fit, you have lost two minutes rather than an afternoon.
+
+### What if I want someone else to send you clients?
+
+The partner program pays 15% of the fee on anything you send our way, with no cap and no exclusivity. It is described on the partners page.
+
+      One sentence is enough
+
+## Send the scope, get the real number
+
+No form with twelve fields, no discovery call before a price. Tell us what you are building and we reply with a fixed quote.
+
+Reply in under 24 hours, in English or Persian.
+
+      hkay7645@gmail.com
+
+No order form. Type hkay7645@gmail.com into your own mail app and tell us the scope — you get the real number back, usually the same day. Or see the full price list → · Open-source on GitHub →
+
+Paid in USDT — BEP-20 or ERC-20, never TRC-20. If you would rather someone else send the project, the partner program pays 15% of the fee.
+
+## Related
+
+      Telegram bot cost calculatorSame idea, for bots — features, message volume, monthly hosting.
+      Web developmentWhat is actually included in the $750 – $2,500 build.
+      Website to appTurn an existing site into an Android or iOS app.
+      Telegram bot developmentBots for support, sales, moderation and internal tools.
+      AI workflow automationLead capture, document processing, scheduled agents.
+      Partner programSend us work, keep 15% of the fee.
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap
+
+---
+
+## Telegram bot cost calculator
+
+https://fyosamu.github.io/tools/telegram-bot-cost-calculator/
+
+Telegram Bot Cost Calculator — Instant Price in USD
+
+    Free tool · no email required
+
+# Telegram Bot Cost Calculator
+
+Choose the features you actually need and how much traffic you expect. Get an instant build price and a realistic monthly hosting estimate, in USD and USDT.
+
+Nothing is sent anywhere. Everything is calculated in your browser.
+
+        1 — What is the bot for?
+
+          Information bot — menus, FAQs, content delivery
+          Support bot — ticketing, handoff to a human
+          Sales / lead bot — qualification and follow-up
+          Notification bot — alerts, digests, monitoring
+          Admin / internal tool — approvals, workflows
+          Store bot — catalogue, orders, payment
+
+        2 — Features
+
+          Commands & menusIncluded in every build
+          Database storageUsers, state, history
+          Admin panelManage it without code
+          AI repliesLLM answers in chat
+          PaymentsCrypto or card checkout
+          Web dashboardStats outside Telegram
+          Multi-languageSecond language in chat
+          Third-party APICRM, sheets, your backend
+
+        3 — Message volume per month
+
+          Under 10,000 — small community or internal use
+          10k – 100k — active group or product
+          100k – 1M — serious traffic
+          1M+ — high scale, needs queueing
+
+        4 — Preferred stack
+
+          No preference — use whatever fits
+          Python (aiogram / python-telegram-bot)
+          Node.js (grammY / telegraf)
+          I already have code — finish it
+
+Your estimate
+
+$600 – $1,800one-time build, fixed scope
+
+Payable in USDT — 600 USDT (BEP-20 or ERC-20)
+
+Running it afterwards
+
+Hosting$4 – $8 / mo
+
+AI replies (if selected)$0 / mo
+
+Typical agency bot quote$1,200 – $3,000
+
+dazo$600 – $1,800
+
+Delivery: about 2–5 days
+
+          Get this quote confirmed
+          What is included
+
+Hosting and AI figures are rough monthly ranges, not a bill — they move with traffic and how chatty the model is. The agency range is indicative only and exists so you can check a quote you already received. The dazo figure is our actual published price.
+
+## What actually decides the price
+
+        State, not messages
+        A bot that must remember where each user stopped is a different project from one that replies to /start. That is the fork in the price.
+
+        AI is cheaper than people expect
+        The model costs less than the engineering around it. What costs money is handling the case where it answers confidently and wrongly.
+
+        Bot plus website
+        If the bot feeds a dashboard or a store, price both — combined builds share one backend and cost less than two separate ones.
+
+## Published prices
+
+ServicePriceTurnaround
+
+          Telegram or Discord bot$600 – $1,8002–5 days
+
+          Custom website (theme or fully bespoke)$750 – $2,5003–7 days
+
+          Existing website → Android / iOS app$1,000 – $3,2004–8 days
+
+          AI workflow automation$900 – $3,0003–7 days
+
+          Technical SEO audit and fixes$500 – $1,500scoped per site
+
+          Speed optimisation (Core Web Vitals)$400 – $1,2001–3 days
+
+          Care plan — updates, backups, fixes$150 – $400 / moongoing
+
+All prices are fixed-scope and quoted before work starts. Payment in USDT (BEP-20 / ERC-20).
+
+## Common questions
+
+### How long does a Telegram bot actually take?
+
+Most of what people ask for is two to five days of work. The things that extend it are payments and anything that has to talk to a system you already run, because those are the parts that can fail in ways nobody notices until a customer does.
+
+### Do I need a server to run it?
+
+Yes, but it is smaller than people imagine. A well-written bot handling tens of thousands of messages a month fits comfortably on a small VPS. The hosting line above is a realistic range rather than a promotional number.
+
+### Who owns the code?
+
+You do. The repository and the deployment are handed over, so you are never renting your own bot from us.
+
+### Can you take over a bot someone else wrote?
+
+Yes. Send the repository and a description of what is broken. Partial rewrites are quoted as maintenance rather than a new build.
+
+### Why is payment in USDT?
+
+Because cards and PayPal are unreliable or unavailable for the countries many of our clients are in. We use BEP-20 or ERC-20 only — never TRC-20. The amount is fixed before work begins.
+
+      One sentence is enough
+
+## Send the spec, get the real number
+
+No discovery call needed to see a price. Tell us what the bot should do and we reply with a fixed quote and a delivery date.
+
+Reply in under 24 hours, in English or Persian.
+
+      hkay7645@gmail.com
+
+No order form. Type hkay7645@gmail.com into your own mail app and tell us the scope — you get the real number back, usually the same day. Or see the full price list → · Open-source on GitHub →
+
+Paid in USDT — BEP-20 or ERC-20, never TRC-20. Already have half a bot? Send the repository and we quote it as maintenance instead of a new build.
+
+## Related
+
+      Website cost calculatorSame idea, for websites and web apps.
+      Telegram bot developmentWhat is actually included in the $600 – $1,800 build.
+      AI workflow automationLead capture, document processing, scheduled agents.
+      Web developmentCustom sites $750 – $2,500.
+      Website to appAndroid and iOS from an existing site.
+      Partner programSend us work, keep 15% of the fee.
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap
+
+---
+
+## AI workflow automation
+
+https://fyosamu.github.io/ai-automation/
+
+AI Workflow Automation — n8n, Make & AI Agents | dazo
+
+    AI workflow automation
+
+# Stop being the API between your own tools
+
+Integrations, AI agents, data sync and internal tools for SaaS teams and operators. Built on n8n, Make or straight Python/Node when the visual builder hits a wall — with the workflow definitions handed over so the automation is yours, not a subscription you rent forever.
+
+      Describe your workflow
+      See a shipped one
+
+## What we automate
+
+Integrations
+
+### Connect the stack
+
+Webhooks, OAuth, REST and GraphQL between your CRM, billing, helpdesk and sheets. Two-way sync with conflict rules — not a one-off zap that silently stops working in month two.
+
+AI agents
+
+### LLM pipelines that do a job
+
+Classification, extraction, summarisation and routing over your own data. Retrieval over your docs, guardrails on the output, and a handoff to a human when confidence is low.
+
+Automation
+
+### n8n, Make or Zapier
+
+Visual builders when they are enough, self-hosted n8n or plain Python when they are not. Either way you own the instance and the workflow files — exportable, versioned, not locked in.
+
+Data
+
+### Pipelines & sync
+
+Scheduled jobs, dedupe, backfills and migrations between SaaS tools. Idempotent retries, so a dropped connection never duplicates a row or loses an order.
+
+Internal
+
+### Dashboards & approval flows
+
+Admin panels, review queues and role-gated actions over the database you already have. The spreadsheet everyone edits becomes something with permissions and an audit trail.
+
+Ops
+
+### Reports & alerts
+
+Daily digests, anomaly alerts, SLA watches and scheduled reports delivered to Slack or Telegram — without anyone assembling them by hand every morning.
+
+## Proof, not a pitch
+
+PostPilot, our own channel scheduler, is the standard we build your workflows to — and sd-gen, the AI video factory and our Instagram content pipeline are public repositories where an AI pipeline runs unattended on CI.
+
+- Absolute, relative and recurring schedules that stay correct across timezones — the failure mode every automation gets wrong
+
+- First poll records a baseline, so a newly connected source never floods your channel or your CRM with old records
+
+- Rate-limit aware retries — a dropped connection stays pending and resumes instead of silently losing the work
+
+- 40 automated tests, standard library only — no network in the suite, so a green run actually means something
+
+- One runtime dependency, one SQLite file — it installs anywhere Python runs, no orchestration platform required
+
+- Install docs and a 24/7 service setup included, because an automation that quietly stops is worse than no automation
+
+$900 – $3,000
+
+typical range — 3 to 7 days
+
+40
+
+tests on every shipped workflow
+
+100%
+
+workflow definitions handed over
+
+      See public code →
+      Send us the workflow that keeps breaking
+
+## How it works
+
+### You describe it
+
+One message: which tools, what triggers it, what "done" looks like. We ask back if anything's unclear — that question saves the project.
+
+### Fixed quote
+
+Price and deadline in writing before we start. Scope is what kills automation projects, so it gets written down first.
+
+### We build & show
+
+You get a working workflow to poke at early — with a test run against real data — because changes are cheap before the last day.
+
+### You get everything
+
+Workflow definitions, code, credentials handed back, deploy instructions and alerting so it fails loudly instead of quietly.
+
+Payment: USDT on BEP-20 (BNB Chain) or ERC-20 (Ethereum / Base / Polygon), or escrow on LaborX if you'd rather not send funds first. Not TRC-20 — that address does not exist on Tron.
+
+## Questions people actually ask
+
+      Do we have to use n8n?
+No. Visual builders are right when the flow is linear and the connectors exist. When you hit rate limits, branching, custom auth or a retry the builder can't express, we drop to Python or Node. You own the instance and the workflow files either way.
+
+      We have Zaps that keep breaking. Can you fix them?
+Send us the failing one. Most breakages are expired auth, pagination the trigger never handled, or a rate limit with no backoff. We fix the root cause and add retries plus alerting, so it fails loudly instead of quietly at 3am.
+
+      Can you work with our AI provider?
+Yes — OpenAI, Anthropic, an open-weights model you host yourself, or whatever key you already have. Prompts, models and thresholds stay in config, so you can swap providers without a rewrite.
+
+      Do you need access to our systems?
+Least privilege: a service account with the narrowest scope that works, secrets kept in your vault, and the workflow definitions handed back to you at the end. You can revoke everything the day we finish.
+
+      How do you price an automation?
+Fixed quote after one message describing the workflow. If it turns out to be two projects, we say so and quote them separately rather than burying it in a number.
+
+      Why do you only take crypto?
+We don't have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX. No invoices with a company name, no chargebacks.
+
+### Bots
+
+Telegram, Discord and WhatsApp bots with payments and scheduling.
+
+Bot development →
+
+### Web development
+
+Theme-based or fully custom sites, stores and dashboards.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+After launch: technical SEO, speed optimisation and a care plan so the site does not quietly rot — all priced on the pricing page.
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Not sure what it costs? Price the site around the automation — free, no email required.
+
+      Describe your workflow
+      Back to the studio
+
+© 2026 dazo — AI workflow automation, SaaS integrations & internal tools.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Web development
+
+https://fyosamu.github.io/web-development/
+
+Custom Web Development — Sites, Stores, Dashboards | dazo
+
+    Web development
+
+# Websites built to be shipped, not presented
+
+E-commerce stores, corporate sites, SaaS dashboards, landing pages and blogs. Start from a proven theme when budget and speed matter, or go fully bespoke when the brand demands it. Either way you get the source, the docs and a deploy you can run.
+
+      Get a quote
+      See built sites
+
+## Theme or custom — the honest trade-off
+
+We'd rather tell you which one you need than sell you the expensive one.
+
+$750 – $2,500
+
+### Theme-based
+
+A proven theme, adapted to your brand: colours, typography, content, plugins. Fastest route to a real site, lowest cost, easy to maintain yourself afterwards.
+
+Scoped
+
+### Semi-custom
+
+A theme as the base, with custom components where your product differs — a pricing table that isn't a plugin, a checkout that fits your flow.
+
+Bespoke
+
+### Fully custom
+
+Designed and built from zero for the brand and the workflow. Heavier, slower to first pixel — worth it when the site is the product.
+
+## What we build
+
+### E-commerce
+
+Product catalogue, cart, checkout, crypto payments, instant digital delivery, legal pages.
+
+### Corporate sites
+
+Company pages, services, team, case studies, contact — the site a client checks before hiring you.
+
+### Dashboards & SaaS
+
+Auth, billing, admin panels, charts, roles. Frontend plus the API behind it.
+
+### Landing pages
+
+One page, one job: convert. Fast, focused, AIA/B-testable.
+
+      E-commerce & storesCorporate & marketing sitesMarketplaces
+      SaaS & dashboardsPublishers & blogsBooking & services
+      Education & coursesReal estateFood & hospitality
+      PortfoliosCrypto & Web3Non-profit
+
+Niche not listed? Ask anyway. If we're not the right team for it, we'll say so in the first reply rather than learning on your budget.
+
+## What ships with every project
+
+- Responsive and accessible — real breakpoints, keyboard-navigable, readable contrast
+
+- SEO-ready — semantic markup, meta and Open Graph tags, XML sitemap, structured data
+
+- Performance measured — Lighthouse run before handover and the score written into the delivery note
+
+- Security basics — no default creds, dependencies patched, headers set
+
+- Source, docs and deploy — no lock-in, no per-seat fee from us
+
+- A preview link early — not a surprise on the last day
+
+$750 – $2,500
+
+typical range — 3 to 7 days
+
+100%
+
+source handed over
+
+USDT
+
+BEP-20 / ERC-20 or escrow
+
+<24h
+
+first reply, always
+
+Payment is in crypto only: USDT on BEP-20 or ERC-20, or escrow on LaborX. No bank transfer, no PayPal, no card processor, no company invoices. Not TRC-20 — that address does not exist on Tron.
+
+## How it works
+
+### You describe it
+
+One message with what you want and when you need it. We reply with questions if anything's unclear.
+
+### Fixed quote
+
+A price and a deadline, in writing, before anything starts.
+
+### We build & show
+
+Preview link early. We adjust while adjusting is still cheap.
+
+### You get everything
+
+Source code, setup docs and the deploy. Payment releases on escrow once you're happy.
+
+## Questions people actually ask
+
+      Theme or custom — which should I pick?
+If the site's job is to look credible and take enquiries, a theme is usually right and saves you money. If the site's job is to sell something unusual, or the brand can't survive a template, go custom. We'll say which one honestly after seeing your brief.
+
+      How long does a website take?
+3 to 7 days for a theme-based site or landing page; longer for custom builds and dashboards. The deadline is fixed in writing before we start.
+
+      Do I own the website afterwards?
+Yes. You get the full source, the database and the deployment instructions. Nothing is held hostage and there is no licence fee payable to us.
+
+      Can you work with my designer?
+Yes. Send the files and we build to them. If you don't have a designer, we handle layout and typography as part of the build.
+
+      Why do you only take crypto?
+We don't have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX if you'd rather not send funds first.
+
+### AI workflow automation
+
+Connect your SaaS tools, add an AI agent, sync the data.
+
+Workflow automation →
+
+### Site → app
+
+Turn an existing website into an Android and iOS app.
+
+Website to app →
+
+### Bot development
+
+Telegram, Discord and WhatsApp bots and automation.
+
+Bot development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+After launch: technical SEO, speed optimisation and a care plan so the site does not quietly rot — all priced on the pricing page.
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Not sure what it costs? Price a website yourself in 30 seconds — before you brief anyone.
+
+      Get a quote
+      Back to the studio
+
+© 2026 dazo — web development services.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Website to app
+
+https://fyosamu.github.io/website-to-app/
+
+Convert Your Website to an Android & iOS App | dazo
+
+    Site → app conversion
+
+# Turn your website into a real mobile app
+
+You already have the site, the content and the users. We wrap it into an Android and iOS app — push notifications, offline loading, store submission — without rebuilding anything. Same data, one install away.
+
+      Get a quote
+      See built work
+
+## Two ways to do it — pick with us, not for you
+
+Most sites don't need a full rewrite. We tell you which route fits before you spend anything.
+
+        Fastest
+
+### Wrapped PWA
+
+Your site becomes an installable progressive web app. Fastest to ship, easiest to update — changes go live instantly. Push notifications on Android; iOS support depends on the browser.
+
+        Store-ready
+
+### Native shell
+
+A thin native container around your site — real App Store and Play Store presence, push on both platforms, splash screens, deep links and offline caching.
+
+        Full build
+
+### Native app
+
+When the app needs to do things the site can't — camera, background sync, biometrics. We build it against the same backend, so nothing gets duplicated.
+
+## What you get
+
+- Android and iOS — one project, both stores
+
+- Push notifications — the reason most people want an app in the first place
+
+- Offline loading — cached shell, so a bad connection doesn't show a blank screen
+
+- Store submission — screenshots, listing copy, review handling; or we hand you the signed build
+
+- One source of truth — your website stays the product; the app reads from it
+
+- Source and docs handed over — no lock-in, no per-download fee from us
+
+Payment: USDT on BEP-20 or ERC-20. Escrow on LaborX if you'd rather not send funds first. No bank transfer, no PayPal.
+
+## How it works
+
+### You send the URL
+
+We audit the site — responsiveness, offline behaviour, what breaks in a webview — and tell you which route fits.
+
+### Fixed quote
+
+Price and deadline in writing before anything starts. $1,000 – $3,200, 4 to 8 days.
+
+### We build & show
+
+Installable build in your hands early, so you test on your own phone while it's cheap to change.
+
+### Store or handover
+
+We submit and handle review, or you get the signed build plus the docs to publish yourself.
+
+$1,000 – $3,200
+
+typical range — 4 to 8 days
+
+2
+
+platforms: Android + iOS
+
+100%
+
+source code handed over
+
+## Questions people actually ask
+
+      Do I need to change my website first?
+Usually not. We audit it first and tell you honestly if something will look broken inside an app shell. Small fixes are quoted separately so nothing is hidden.
+
+      Will the app work if my site goes down?
+The shell and cached content stay on the phone, so the app opens and shows what it has. Live data needs the site — the same dependency you already have.
+
+      How much does it cost to publish on the App Store and Play Store?
+The stores charge their own fees (Google Play is a one-time $25; Apple is $99/year). Those are paid by you, directly to Google and Apple — we never touch them.
+
+      Can I publish it under my own developer account?
+Yes, and most clients do. We can hand you a signed build and the documentation, or submit it through your account if you give us access.
+
+      Why do you only take crypto?
+We don't have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX. It also means no invoice delays and no chargebacks.
+
+### AI workflow automation
+
+Connect your SaaS tools, add an AI agent, sync the data.
+
+Workflow automation →
+
+### Telegram, Discord & WhatsApp bots
+
+Automation that lives where your users already are.
+
+Bot development →
+
+### Web development
+
+Theme-based or fully custom sites, stores and dashboards.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+After launch: technical SEO, speed optimisation and a care plan so the site does not quietly rot — all priced on the pricing page.
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Not sure what it costs? Price it yourself in 30 seconds — including the app build.
+
+      Send your URL, get a quote
+      Back to the studio
+
+© 2026 dazo — website to app conversion.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Telegram, Discord and WhatsApp bots
+
+https://fyosamu.github.io/telegram-bot-development/
+
+Telegram Bot Development — Custom Bots & Automation | dazo
+
+    Chat bot development
+
+# Bots that do the work while you sleep
+
+Telegram, Discord and WhatsApp bots built on Python or Node: moderation, payments, RSS auto-posting, subscriptions, mini-apps. Clean config so you can change things yourself later — and the source, handed over.
+
+      Describe your bot
+      See a shipped one
+
+## What we build
+
+Moderation
+
+### Group & channel bots
+
+Antispam, raid protection, join/leave logging, warning systems, admin queues and role gates — with config you can edit, not hardcoded rules.
+
+Money
+
+### Payments & subscriptions
+
+Crypto checkout, paid access gates, trial periods, receipts and automatic revocation. Money in, access granted, without you touching it.
+
+Content
+
+### RSS & channel automation
+
+Auto-publish new articles to a channel on a schedule, digest posts, cross-posting between platforms, rate-limit aware retries.
+
+Mini-apps
+
+### Telegram Mini Apps
+
+Web apps inside Telegram — dashboards, shops, forms and booking screens that inherit the user's identity for free.
+
+Support
+
+### Helpdesk & AI assistants
+
+Ticket routing, FAQ bots, retrieval over your own docs, handoff to a human when the bot is out of its depth.
+
+Ops
+
+### Monitoring & alerts
+
+Watch a service, a price, a feed or a log file and push an alert the moment it changes. Scheduled jobs, webhooks, CI hooks.
+
+## Proof, not a pitch
+
+PostPilot is our own Telegram channel scheduler, built and sold as a product. It is the standard we build your bot to.
+
+- 40 automated tests, standard library only — no network in the suite, so a green run means something
+
+- One runtime dependency, one SQLite file — installs anywhere Python runs
+
+- Absolute, relative and recurring schedules that stay correct across timezones
+
+- First RSS poll only records a baseline, so old articles never flood your channel
+
+- Rate-limit aware — retries instead of dropping; network hiccups stay pending
+
+- Install docs and 24/7 service setup included, because a bot that stops isn't a bot
+
+$600 – $1,800
+
+typical range — 2 to 5 days
+
+40
+
+tests on every shipped bot
+
+100%
+
+source code handed over
+
+      See public code →
+      Ask for the PostPilot test run
+
+## How it works
+
+### You describe it
+
+One message: what the bot should do and who uses it. We ask back if anything's unclear.
+
+### Fixed quote
+
+Price and deadline in writing before we start. No open-ended hourly surprises.
+
+### We build & show
+
+You get a working bot to poke at early — changes are cheap before the last day.
+
+### You get everything
+
+Source, config, deploy instructions and a 24/7 service setup so it stays up.
+
+Payment: USDT on BEP-20 (BNB Chain) or ERC-20 (Ethereum / Base / Polygon), or escrow on LaborX if you'd rather not send funds first. Not TRC-20 — that address does not exist on Tron.
+
+## Questions people actually ask
+
+      Do you work with Telegram only?
+No. Telegram, Discord and WhatsApp — plus anything with a webhook API. Telegram is where we've shipped most, including our own product.
+
+      Where does the bot run?
+Anywhere Python or Node runs: your VPS, a small cloud box, or a container. We set it up as a 24/7 service with auto-restart and tell you exactly how it's wired.
+
+      Do I need to know how to code?
+No. Everything you'd want to change — texts, schedules, thresholds, admin lists — lives in a config file, and we document it.
+
+      Can you take over an existing bot?
+Often, yes. Send the code or the symptoms. If it's a rewrite rather than a repair, we'll say so and quote it as one.
+
+      Why do you only take crypto?
+We don't have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX. No invoices with a company name, no chargebacks.
+
+### AI workflow automation
+
+Connect your SaaS tools, add an AI agent, sync the data.
+
+Workflow automation →
+
+### Site → app
+
+Turn an existing website into an Android and iOS app.
+
+Website to app →
+
+### Web development
+
+Theme-based or fully custom sites, stores and dashboards.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+If it runs a site: technical SEO, speed optimisation and a care plan — all priced on the pricing page.
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Not sure what it costs? Price a bot yourself in 30 seconds — features and message volume included.
+
+      Describe your bot
+      Back to the studio
+
+© 2026 dazo — Telegram, Discord & WhatsApp bot development.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Partner and referral program
+
+https://fyosamu.github.io/partners/
+
+dazo Partner Program — Refer a Project, Keep 15% of the Fee
+
+    Partner & referral program
+    15%
+
+# Bring us a project. Keep 15% of the fee.
+
+You don't need to know how to code, and you don't need to do the work. If you can put a real website, app, bot or SEO project in front of us, we build it — and you keep 15% of everything we are paid.
+
+      Refer a project now
+      Read the terms first
+
+No costto join, ever
+
+24hpaid after payment clears
+
+USDTsent to your wallet
+
+White-labelwe stay invisible
+
+## How it works
+
+Four steps, and only the first one is yours.
+
+### You introduce
+
+One email with what the client needs, or just forward their message to us. You don't write the proposal — that's our job.
+
+### We quote & build
+
+We scope it, price it in writing, and deliver it. You stay in the loop, or stay out of it entirely — your call.
+
+### Client pays
+
+The payment clears in USDT or on escrow. Nothing moves without you being able to see it.
+
+### You get paid
+
+15% of what we received, sent to your wallet within 24 hours of the payment clearing.
+
+## Who this is for
+
+If you already have access to demand, this is the cheapest product you'll ever add.
+
+### Marketing & ad agencies
+
+Overflow demand, clients asking for a site or an app, and no dev team to deliver it. You keep the relationship; we do the build.
+
+### Freelancers who don't code
+
+You close the deal and set your own margin on top. We build behind you and never contact your client.
+
+### Community & channel owners
+
+An audience is already half the sale. If your members ask for tools or sites, forward them to us.
+
+### Consultants & media buyers
+
+Add a delivery arm without hiring one. One introduction is enough to start.
+
+## Web design studio? You design, we build.
+
+Two studios in the same market are not competitors here — one of them sells the work, the other ships it. We would rather ship yours than pitch against you.
+
+### Overflow, not rivalry
+
+When your calendar fills up, hand us the build instead of declining the client. You keep the account, the retainer and every future redesign.
+
+### Your brand only
+
+White-label by default: your name on the proposal, the invoice and the launch announcement. Ours appears nowhere unless you ask us to show up.
+
+### Either arrangement
+
+Refer the project and keep 15% of our fee, or mark up our fixed price, invoice the client yourself and keep the difference.
+
+What we take on: sites, stores, dashboards, the Android/iOS version of a site you already designed, Telegram and Discord bots, technical SEO and speed work. Every figure is published as a range at /pricing/, so you can price your own quote before you ever speak to us.
+
+## The terms, in plain words
+
+Everything below goes into a short written agreement before the first project, so nobody argues later.
+
+### What you get
+
+- 15% of every payment we receive from the project you introduced
+
+- Paid in USDT — BEP-20 (BNB Chain) or ERC-20 (Ethereum / Base / Polygon), to your wallet
+
+- Within 24 hours of each payment clearing, not at the end of some quarter
+
+- On-chain visibility — you can verify every payment yourself
+
+- Indefinite — one project or a steady flow, both fine
+
+### What you don't get stuck with
+
+- No joining fee, no subscription, no minimum quota
+
+- No exclusivity — you can work with anyone else too
+
+- No selling: we write the proposal, the quote and the contract
+
+- No delivery risk — the build quality is ours, not yours
+
+- No cold calling — we only ever contact a client you introduced
+
+How we calculate it: 15% of the amount we actually receive on the project you introduced — not of a quote that was never paid. If the client only pays in stages, you get 15% of each stage as it clears.
+
+Not TRC-20. Our wallets are EVM addresses. USDT must be sent on BEP-20 or ERC-20 — that address does not exist on Tron, and a TRC-20 transfer to it would be lost.
+
+## Straight answers
+
+        What if the client doesn't close?
+
+Then there's nothing to pay and nothing owed. You only earn when we get paid, and we only get paid when the project ships and the client pays.
+
+        Can I put my own price on top?
+
+Yes. If you're selling the project as your own service, set whatever margin you like and invoice the client yourself. Our 15% is calculated on what we are paid by you.
+
+        What kind of projects can I send?
+
+Websites (theme or custom), turning an existing site into an Android/iOS app, Telegram/Discord/WhatsApp bots, technical SEO, performance work and site security. If it's outside that, ask anyway — we'll say no quickly if it is.
+
+        Will you contact my client directly?
+
+Not unless you ask us to. By default we talk to you, you talk to them. If you'd rather we run the account directly, we can — under a white-label arrangement.
+
+        Why crypto only?
+
+We're paid in USDT because we don't have access to bank or card processors in our jurisdiction. It also means no invoice delays and no chargebacks — the money you see clear is the money that's final.
+
+        How do I know you'll actually pay?
+
+You don't have to take our word for it: we'll put the 15% and the 24-hour window in writing before the first project, and every payment we receive from your introduction is on-chain and checkable. Start with one project.
+
+## Send us the first one
+
+One line about what the client needs is enough. We'll reply with a question or a quote, not a form.
+
+Emailhkay7645@gmail.com
+
+Subject line to usePartner program — 15% referral
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+        Not sure what it costs? Send clients the calculator instead of a price list — they get a number instantly, you still keep 15%.
+
+        Refer a project
+        See what we build
+
+© 2026 dazo — partner & referral program.
+
+Remote · paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Technical SEO
+
+https://fyosamu.github.io/technical-seo/
+
+Technical SEO Audit & Fixes — Schema, Crawlability | dazo
+
+    Technical SEO
+
+# Fix the SEO issues search engines complain about
+
+Not guesswork and not a 90-page PDF you will never open. We read what the crawl actually reports, tell you which problems are costing you visibility, and then fix them ourselves — schema, crawlability, indexing, internal linking and content structure.
+
+      Get an audit quote
+      See the full price list
+
+## What we look at
+
+Three groups, in the order they usually decide whether anything else you do can be seen at all.
+
+        Found
+
+### Crawl & indexation
+
+robots.txt, sitemap, canonical tags, redirect chains, blocked resources, orphan pages, noindex mistakes and the pages Google has decided not to index at all.
+
+        Understood
+
+### Schema & on-page
+
+Structured data that validates, headings that describe the page, titles and descriptions that match intent, image alt text, and the template-level issues that repeat on every page.
+
+        Ranked
+
+### Structure & internal links
+
+Where link equity gets trapped, which pages should support which, category depth, duplicate content, thin templates and the content structure that keeps a topic coherent.
+
+## What you get
+
+- A written audit — every finding, why it matters and what we would do about it
+
+- The fixes applied by us — not a checklist handed to your developer with no dates
+
+- Before and after numbers — the crawl and the report re-run once the work is done
+
+- Schema markup that validates — added or repaired, with the Rich Results test passing
+
+- One template fix, every page — most of the gain sits in shared components, so we start there
+
+- Source and access handed back — we work in your system, you keep everything
+
+Honest disclaimer: nobody can guarantee a ranking. Anyone who does is either guessing or lying. What we guarantee is the audit, the fixes and the before/after numbers — the part that is actually under our control.
+
+## How it works
+
+### You send the URL
+
+One link is enough to start. If you can share Search Console access, even read-only, the audit gets much sharper.
+
+### Scope and fixed price
+
+We tell you what we found, what is worth fixing and what is not, then quote it flat. $500 – $1,500, scoped per site.
+
+### We fix it
+
+Schema, canonicals, internal links, sitemaps, template markup and content structure — applied directly, not documented and abandoned.
+
+### Re-run and hand over
+
+The crawl runs again so you can see what moved, plus the notes you need to keep it that way.
+
+$500 – $1,500
+
+typical range — scoped per site
+
+1
+
+written audit before any change
+
+100%
+
+of the fixes applied by us
+
+## Questions people actually ask
+
+      Do you guarantee first-page rankings?
+No, and neither can anyone else — rankings depend on competition, authority and changes Google makes without telling us. We guarantee a written audit, the fixes applied, and before/after numbers so you can judge the work on evidence.
+
+      How long before I see a difference?
+It depends on how often the site is crawled and how competitive the queries are. Fixes that remove an indexing block can show up within days; changes to content structure take longer. We re-run the crawl at handover so there is a dated number either way.
+
+      Do I need to rebuild my website?
+Almost never. Most technical problems live in templates, headers and configuration, which can be fixed in place. If something genuinely needs a rebuild, we will say so instead of inventing work.
+
+      What access do you need?
+The URL to start. Search Console read-only access makes the audit far more accurate, and applying the fixes needs whatever controls the templates — CMS admin, repository access, or your developer for the parts we cannot reach.
+
+      Is my site too small to bother?
+Small sites usually have fewer problems and benefit more from each fix, because there are fewer pages competing with each other. If we look at it and decide it is not worth $500 – $1,500, we will tell you that instead of selling it.
+
+      Why do you only take crypto?
+We do not have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX if you would rather not send funds first. It also means no invoice delays and no chargebacks.
+
+### Speed optimisation
+
+Core Web Vitals, caching, image pipelines and bundle trimming — often the same templates.
+
+Speed optimisation →
+
+### Website care plan
+
+Backups, patches, uptime monitoring and a human who answers after launch.
+
+Care plan →
+
+### Web development
+
+Theme-based or fully custom sites built SEO-ready in the first place.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Curious what a build would cost? Price it yourself in 30 seconds — SEO work is one of the optional extras inside it.
+
+      Send your URL, get an audit quote
+      Back to the studio
+
+© 2026 dazo — technical SEO services.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Speed optimization
+
+https://fyosamu.github.io/speed-optimization/
+
+Website Speed Optimisation — Core Web Vitals | dazo
+
+    Speed optimisation
+
+# Make the page load before the visitor leaves
+
+Every extra second of load time costs you the people who came to buy. We attack the file size, the render path and the server response — image pipelines, critical CSS, caching, CDN and bundle trimming — and we measure it twice so you can see what changed.
+
+      Get a speed quote
+      See the full price list
+
+## Where the time usually goes
+
+Slow sites are rarely slow for a mysterious reason. These four account for most of what we find.
+
+        Bytes
+
+### Unoptimized media
+
+PNGs where WebP or AVIF belongs, hero images the size of a phone screen served at four times that, no lazy loading, and video that autoplays above the fold.
+
+        Render
+
+### Blocking CSS and JS
+
+Stylesheets and scripts the page cannot paint without, third-party tags loading in the critical path, and a bundle shipping libraries that are used once.
+
+        Server
+
+### Slow response
+
+Uncached pages generated from scratch on every request, no CDN in front of static assets, and database work repeated because a query was never indexed.
+
+        Measure
+
+### Core Web Vitals, not vibes
+
+LCP, INP and CLS are the numbers Google actually uses. We read them from field data where it exists — real visitors, real devices — rather than a lab test on a fast desktop connection.
+
+## What you get
+
+- A Lighthouse run before and after — two dated reports, so the improvement is a fact, not a claim
+
+- Images rebuilt properly — modern formats, responsive sizes, lazy loading below the fold
+
+- Critical CSS inlined, the rest deferred — the page paints without waiting for a stylesheet
+
+- Bundle trimmed — unused code removed, heavy libraries replaced or loaded only where needed
+
+- Caching and CDN configured — repeat visits and static assets stop hitting the origin
+
+- Nothing added that you now have to maintain — no new framework, no proprietary plugin
+
+Honest disclaimer: we do not promise a specific Lighthouse score, because the final number depends on your hosting and on third-party tags we do not control. We promise the measured before/after and the work that produced it.
+
+## How it works
+
+### Send the URL
+
+We run the audit and tell you which of the four causes is actually costing you time on your site.
+
+### Fixed quote
+
+Flat price before any work starts. $400 – $1,200, delivered in 1 to 3 days.
+
+### We optimise
+
+Media, render path, bundle and server response — in your codebase, with the changes visible in version history.
+
+### Measure again
+
+A second Lighthouse run at handover, with the numbers written into the delivery note alongside the first.
+
+$400 – $1,200
+
+typical range — 1 to 3 days
+
+2
+
+Lighthouse runs: before and after
+
+0
+
+new frameworks added to your project
+
+## Questions people actually ask
+
+      Will you guarantee a Lighthouse score of 90 or more?
+No. The score depends on your hosting and on third-party tags such as chat widgets, analytics and ad scripts. What we do is fix everything under our control and show you the measured before and after, so you can see exactly what moved and what still blocks it.
+
+      Could optimisation break my site?
+Changes are made in a way you can review and revert, and the site is checked after each round. Anything that would alter how the site looks or behaves gets flagged first rather than quietly shipped.
+
+      What access do you need?
+The URL for the audit. Applying the fixes needs the source — a repository, or the CMS if the site is built on one. If your developer would rather do it, we can hand over a prioritised list instead, though the price stays the same.
+
+      Is 1 to 3 days realistic for a large site?
+For the shared templates, yes — and on most sites the templates are where the gain is. If your project has hundreds of unique page types, we will scope it honestly rather than pretend the flat rate covers it.
+
+      Do you offer website care and SEO as well?
+Yes. Speed work and technical SEO touch the same templates, so they combine well, and the care plan keeps the site fast after we leave.
+
+      Why do you only take crypto?
+We do not have access to bank or card processors where we are. USDT on BEP-20 or ERC-20, or escrow on LaborX if you would rather not send funds first. It also means no invoice delays and no chargebacks.
+
+### Technical SEO
+
+Crawlability, schema, internal linking and content structure — the same templates.
+
+Technical SEO →
+
+### Website care plan
+
+Backups, patches, uptime monitoring and a human who answers after launch.
+
+Care plan →
+
+### Web development
+
+Sites built fast in the first place, so this is a top-up rather than a rescue.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Curious what a build would cost? Price it yourself in 30 seconds — speed optimisation is one of the optional extras inside it.
+
+      Send your URL, get a quote
+      Back to the studio
+
+© 2026 dazo — speed optimisation.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## Website care plan
+
+https://fyosamu.github.io/website-care-plan/
+
+Website Care Plan — Backups, Updates & Support | dazo
+
+    Care plan
+
+# Someone who answers after launch
+
+Most sites do not get hacked or broken by a big change. They rot — an outdated plugin here, a backup nobody checked there, a certificate that expired on a Sunday. This plan is the person watching for that, $150 – $400 a month, cancel whenever.
+
+      Start the care plan
+      See the full price list
+
+## What happens every month
+
+Not a dashboard you are supposed to check yourself — actual work, done whether or not you log in.
+
+        Restore point
+
+### Backups
+
+Taken on a schedule and stored away from the site itself, so a broken deploy or a compromised host does not take the backup with it. Periodically restored, because an untested backup is a guess.
+
+        Patched
+
+### Updates
+
+Core, plugin and dependency updates applied deliberately rather than left to auto-update at 3am. Anything risky gets tested first, and we do not install a new major version the day it appears.
+
+        Woken up
+
+### Uptime monitoring
+
+The site is checked continuously. If it goes down you hear from us rather than finding out from a customer — and if the cause is on our side, we start on it.
+
+        Human
+
+### Support that replies
+
+Small change you need made? A question about something breaking? You email a person, not a ticket queue with a four-day autoresponder. That is most of what people are actually buying.
+
+## What you get
+
+- Scheduled off-site backups — and a restore that has actually been tested
+
+- Core, plugin and dependency patches — applied and checked, not queued
+
+- Uptime monitoring — we find out, not just you
+
+- Security hardening — sensible access rules, login surface reduced, updates closing known holes
+
+- A human on email — answers in plain language, same day where the timezone allows
+
+- Priority when you want work done — you skip the queue for new projects
+
+What is not included: new features, redesigns and large content changes. Those are quoted as projects at the normal published price. If a fix needs more than routine maintenance, we tell you the number before doing it.
+
+## How it works
+
+### You email
+
+One message saying you want the plan and which site it is for. No form, no contract to sign first.
+
+### We take stock
+
+Backups, update state, access and monitoring are set up and checked before the first month counts.
+
+### The monthly rhythm
+
+Backups, patches, monitoring and housekeeping run on a schedule. You get told what was done, not asked to go and look.
+
+### Something breaks
+
+You write, we answer and we handle it — within what the plan covers, and with a number first if it is not.
+
+$150 – $400
+
+per month — ongoing
+
+0
+
+lock-in — cancel whenever
+
+1
+
+person who answers your email
+
+## Questions people actually ask
+
+      Is there a contract or a minimum term?
+No. It is billed monthly and you cancel whenever you like — that wording is on our pricing page too. Nothing is held hostage: your site, your source and your backups stay yours if you leave.
+
+      I did not build my site with you. Can you still look after it?
+Usually yes. The first month is where we get to know the stack and set up backups and monitoring properly. If the codebase is in a state where ongoing maintenance would be throwing money away, we will say so rather than take the fee.
+
+      What if my site gets hacked?
+We restore from the off-site backup and close the route in, then tell you what happened in language you can act on. How fast depends on when it is found — which is exactly what monitoring and off-site backups are for.
+
+      Are new features included?
+No. New features, redesigns and big content changes are quoted separately at the published price. The plan keeps what you already have healthy; growing it is a project.
+
+      How fast do you reply?
+Same day where the timezone allows, and always with a real answer rather than an acknowledgement. Emergencies — the site is down — are dealt with first.
+
+      Why do you only take crypto?
+We do not have access to bank or card processors where we are. USDT on BEP-20 or ERC-20. It also means no invoice delays, no chargebacks and no card expiring on a subscription you forgot about.
+
+### Technical SEO
+
+Crawlability, schema and internal linking, so the site stays findable too.
+
+Technical SEO →
+
+### Speed optimisation
+
+Core Web Vitals work that keeps paying off after the first fix.
+
+Speed optimisation →
+
+### Web development
+
+Need the site rebuilt or extended? That is a project on top of the plan.
+
+Web development →
+
+### Send us a client
+
+Bring a project and keep 15% of what we're paid.
+
+Partner program →
+
+To place an order: open your mail app and write to hkay7645@gmail.com — type it yourself if you prefer. A sentence or two about the project is enough to get a fixed price back. See the full price list →
+
+      Curious what a build would cost? Price it yourself in 30 seconds — and then keep it running with this plan.
+
+      Start the care plan
+      Back to the studio
+
+© 2026 dazo — website care plan.
+
+Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com

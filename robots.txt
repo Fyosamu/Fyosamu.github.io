@@ -3,5 +3,7 @@ Allow: /
 
 # LLM / AI-search friendly summary of this site: https://llmstxt.org/
 # Crawlers that want it fetch https://fyosamu.github.io/llms.txt directly.
+# The full text of every page in one file: https://fyosamu.github.io/llms-full.txt
+# (generated from the HTML by make_llms_full.py, so it cannot drift).
 
 Sitemap: https://fyosamu.github.io/sitemap.xml

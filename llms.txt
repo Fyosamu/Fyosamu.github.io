@@ -4,6 +4,8 @@
 
 There is no order form, no checkout and no account on this site — that is deliberate. Every page ends at the same email address, written as plain text so it can be typed by hand. Payment is USDT on BEP-20 or ERC-20 only, never TRC-20.
 
+The whole site as one file, for systems that would rather not fetch twelve pages: [llms-full.txt](https://fyosamu.github.io/llms-full.txt) — generated from the HTML, so it carries the same prices as the pages below.
+
 ## Services
 
 - [Website development](https://fyosamu.github.io/web-development/): custom websites, e-commerce stores, corporate sites, SaaS dashboards and landing pages. Theme-based or fully bespoke, $750 – $2,500, delivered in 3–7 days, source handed over.
