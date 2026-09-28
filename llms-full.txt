@@ -292,6 +292,44 @@ PythonSQLiteRSS / Atom40 tests
 
 $79 — source + docs, delivered same day
 
+### Dreamer Prompt Lab — 10,481 AI prompts
+
+FOR SALE
+
+Ten thousand ready-to-use prompts for ChatGPT, Claude, Gemini and Midjourney, sorted into 164 categories so you can actually find things again. Every prompt carries the character or word limit the target platform really enforces — an Etsy title is held to 140 characters, a resume to 450 words — so the output is usable without a rewrite.
+
+10,481 prompts164 categoriesInstant ZIP
+
+- Six bundles from $5.99, or the whole vault at $14.99
+
+- Also sold per-niche: resumes, Etsy, Amazon, real estate, food, video
+
+- Pay in USDT (BEP-20) or card — no subscription, lifetime access
+
+        Browse the store →
+        180 prompts free, no signup →
+
+$5.99 — per bundle · $14.99 for all 10,481
+
+### Store templates — complete sites, one folder
+
+FOR SALE
+
+Fifteen finished storefronts in plain HTML, CSS and JavaScript: no build tools, no framework, no licence key. Open index.html, change the brand and the two lines of config, upload. The palette re-skins from a single :root block.
+
+Static HTMLResponsive to 320pxMIT
+
+- Live demo you can click through before paying
+
+- Payment page reads the Ethereum network itself and unlocks the zip in seconds
+
+- CC0 photographs and MIT code — use it on client work, resell what you build
+
+        Live demo →
+        Delivery page →
+
+14 USDT — per template · USDT or card
+
 How to buy: mail hkay7645@gmail.com and say which one you want. Payment in USDT (BEP-20 / ERC-20) — never TRC-20, that address does not exist on Tron.
 
       15%
