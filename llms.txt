@@ -22,6 +22,10 @@ The whole site as one file, for systems that would rather not fetch twelve pages
 - [Home](https://fyosamu.github.io/): service overview, technical SEO and performance work, and the products available to buy right now.
 - [Partner program](https://fyosamu.github.io/partners/): bring a project, keep 15% of the fee, paid in USDT within 24 hours of the payment clearing.
 
+## Products
+
+- [10,481 AI prompts](https://fyosamu.github.io/prompts/): one download of 10,481 copy-paste prompts for ChatGPT, Claude, Gemini and Midjourney in 164 categories, each one carrying the character and word limit its platform actually enforces — Etsy titles at 140 characters, resumes at 450 words, ATS resumes with no tables. $4.99 for a single niche pack up to $14.99 for the whole vault, instant download, pay in USDT (BEP-20) or by card.
+
 ## Free tools
 
 - [Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/): pick a scope, get an instant fixed price in USD and USDT plus the typical market range for comparison. No email required.
