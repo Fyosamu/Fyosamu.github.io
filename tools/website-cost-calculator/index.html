@@ -56,13 +56,13 @@ section{padding:64px 0}
 .muted{color:var(--mut)}
 .small{font-size:.87rem}
 .grid2{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:start}
-@media(max-width:860px){.grid2{grid-template-columns:1fr}}
+@media(max-width:860px){.grid2{grid-template-columns:minmax(0,1fr)}}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:26px}
 label{display:block;font-size:.8rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);margin:0 0 10px}
 select,input[type=text]{width:100%;background:var(--bg2);border:1px solid var(--line);color:var(--fg);padding:13px 14px;border-radius:10px;font:inherit;font-size:.98rem}
 select:focus,input:focus{outline:none;border-color:var(--acc)}
-.opts{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
-@media(max-width:520px){.opts{grid-template-columns:1fr}}
+.opts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+@media(max-width:520px){.opts{grid-template-columns:minmax(0,1fr)}}
 .opt{display:flex;gap:10px;align-items:flex-start;background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:12px 13px;cursor:pointer;transition:.15s}
 .opt:hover{border-color:#37445a}
 .opt input{margin:4px 0 0;accent-color:var(--acc);flex:0 0 auto}
