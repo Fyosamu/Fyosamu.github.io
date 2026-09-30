@@ -8,3 +8,4 @@ Allow: /
 
 Sitemap: https://fyosamu.github.io/sitemap.xml
 Sitemap: https://fyosamu.github.io/still-here/sitemap.xml
+Sitemap: https://fyosamu.github.io/fashion-store/sitemap.xml
