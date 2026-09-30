@@ -25,6 +25,7 @@ The whole site as one file, for systems that would rather not fetch twelve pages
 ## Products
 
 - [10,481 AI prompts](https://fyosamu.github.io/prompts/): one download of 10,481 copy-paste prompts for ChatGPT, Claude, Gemini and Midjourney in 164 categories, each one carrying the character and word limit its platform actually enforces — Etsy titles at 140 characters, resumes at 450 words, ATS resumes with no tables. $4.99 for a single niche pack up to $14.99 for the whole vault, instant download, pay in USDT (BEP-20) or by card.
+- [100 clothing store templates](https://fyosamu.github.io/fashion-store/apparel.html): one hundred complete fashion storefronts — streetwear, bridal, denim, scrubs, modest wear, adaptive clothing, vintage, kidswear, footwear — each a different layout, palette and type pairing, delivered as static HTML, CSS and vanilla JavaScript with no build step and no framework. Every one has a running demo, a ClothingStore JSON-LD block and an MIT licence. List $49, current price 19 USDT, bought through an on-chain checkout where the buyer pastes a USDT transaction hash on Ethereum (ERC-20) or BNB Smart Chain (BEP-20) and the ZIP is decrypted in their own browser. No account, no card, nothing stored server-side. Full shop index: [llms.txt](https://fyosamu.github.io/fashion-store/llms.txt).
 
 ## Free tools
 
