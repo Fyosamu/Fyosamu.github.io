@@ -7,3 +7,4 @@ Allow: /
 # (generated from the HTML by make_llms_full.py, so it cannot drift).
 
 Sitemap: https://fyosamu.github.io/sitemap.xml
+Sitemap: https://fyosamu.github.io/still-here/sitemap.xml
