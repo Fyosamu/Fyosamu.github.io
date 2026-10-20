@@ -1,0 +1,55 @@
+name: seo-drip
+
+# Daily SEO drip for the money site. Runs entirely on GitHub - no local
+# machine needed. Pings IndexNow (Bing, Yandex, DuckDuckGo, Seznam) with
+# the full sitemap every day, archives the homepage to the Wayback Machine
+# weekly so link equity never dies, and resubmits the sitemap to Google
+# via IndexNow's sitemap parameter. Free, keyless, silent.
+
+on:
+  schedule:
+    - cron: '23 6 * * *'    # IndexNow - every day
+    - cron: '41 7 * * 1'    # Wayback archive - every Monday
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '23 6 * * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Submit sitemap URLs to IndexNow
+        run: |
+          KEY=$(cat indexnow-key.txt | tr -d '[:space:]')
+          URLS=$(python3 - <<'EOF'
+          import re
+          with open("sitemap.xml") as f:
+              urls = re.findall(r"<loc>\s*(.*?)\s*</loc>", f.read())
+          import json
+          print(json.dumps(urls))
+          EOF
+          )
+          curl -sS -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "{\"host\":\"fyosamu.github.io\",\"key\":\"$KEY\",\"keyLocation\":\"https://fyosamu.github.io/$KEY.txt\",\"urlList\":$URLS}"
+          echo ""
+          echo "IndexNow submitted at $(date -u)"
+
+  wayback:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '41 7 * * 1'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        page:
+          - "https://fyosamu.github.io/"
+          - "https://fyosamu.github.io/pricing/"
+    steps:
+      - name: Archive ${{ matrix.page }} to Wayback
+        run: |
+          curl -sS "https://web.archive.org/save/${{ matrix.page }}" -o /dev/null -w "wayback %{http_code}\n" || true
