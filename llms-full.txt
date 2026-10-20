@@ -222,6 +222,28 @@ Static siteResponsiveDesign
         Live demo →
         Source →
 
+### Digital store — instant delivery
+
+LIVE
+
+Static storefront for digital products: crypto checkout, instant delivery, full legal pages. No backend, no monthly bill.
+
+HTML/CSSCrypto checkoutStatic
+
+        Live demo →
+        Source →
+
+### VERA Atelier — Elementor kit
+
+LIVE
+
+Premium Elementor/WooCommerce theme kit for fashion brands: demo pages, category layouts and one-click import.
+
+ElementorWooCommerceWordPress
+
+        Live demo →
+        Source →
+
 ### dazo — AI video factory
 
 REPO
