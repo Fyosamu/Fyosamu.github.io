@@ -326,6 +326,7 @@ PythonSQLiteRSS / Atom40 tests
 
 - Ships with install docs, 24/7 service setup and the full test run
 
+        Full PostPilot page & what's inside →
         Ask for the source & test run →
 
 $79 — source + docs, delivered same day

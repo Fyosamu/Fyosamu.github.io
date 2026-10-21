@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PostPilot — Telegram Scheduler Bot with RSS Auto-Posting, $79 | dazo</title>
+<meta name="description" content="PostPilot: a framework-free Python bot that schedules Telegram posts and auto-publishes new RSS/Atom items. SQLite, timezone-correct, 40 tests. $79, source delivered same day." />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<link rel="canonical" href="https://fyosamu.github.io/postpilot/" />
+<meta name="theme-color" content="#0b0f14" />
+<meta property="og:type" content="product" />
+<meta property="og:url" content="https://fyosamu.github.io/postpilot/" />
+<meta property="og:site_name" content="dazo" />
+<meta property="og:title" content="PostPilot — Telegram scheduler bot with RSS auto-posting ($79)" />
+<meta property="og:description" content="Schedule posts to any Telegram channel and auto-publish new RSS/Atom items. One runtime dependency, one SQLite file, 40 tests. $79." />
+<meta property="og:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="PostPilot — Telegram scheduler bot with RSS auto-posting ($79)" />
+<meta name="twitter:description" content="Schedule Telegram posts, auto-publish RSS/Atom items. SQLite, timezone-correct, 40 tests. $79." />
+<meta name="twitter:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><text x='32' y='45' font-family='Arial,Helvetica,sans-serif' font-size='40' font-weight='bold' fill='%234dd4ac' text-anchor='middle'>d</text></svg>" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+:root{--bg:#0b0f14;--bg2:#11161d;--panel:#151c25;--line:#222b36;--fg:#e6edf3;--mut:#8b98a8;--acc:#4dd4ac;--acc2:#7aa2ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--acc);text-decoration:none}
+a:hover{text-decoration:underline}
+p a,li a,footer a{text-decoration:underline;text-underline-offset:2px}
+.wrap{max-width:940px;margin:0 auto;padding:0 22px}
+header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:62px}
+.brand{font-weight:800;letter-spacing:-.02em;font-size:18px;color:var(--fg)}.brand span{color:var(--acc)}
+.nav a.back{color:var(--mut);font-size:14.5px}.nav a.back:hover{color:var(--fg);text-decoration:none}
+.hero{padding:72px 0 50px}
+.eyebrow{display:inline-block;font-size:.74rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--acc);background:rgba(77,212,172,.1);border:1px solid rgba(77,212,172,.28);padding:5px 12px;border-radius:999px}
+h1{font-size:clamp(2rem,5vw,3rem);line-height:1.12;letter-spacing:-.03em;margin:20px 0 14px}
+h2{font-size:clamp(1.35rem,3vw,1.9rem);letter-spacing:-.02em;margin:0 0 14px}
+h3{font-size:1.05rem;margin:0 0 8px}
+.lead{font-size:1.1rem;color:var(--mut);max-width:64ch}
+section{padding:56px 0;border-top:1px solid var(--line)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:760px){.grid2{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:24px}
+.card p{color:var(--mut);font-size:.95rem;margin:0}
+ul.ck{list-style:none;padding:0;margin:14px 0 0}
+ul.ck li{position:relative;padding-left:26px;margin:9px 0;color:var(--fg)}
+ul.ck li:before{content:"";position:absolute;left:0;top:.55em;width:12px;height:7px;border-left:2.5px solid var(--acc);border-bottom:2.5px solid var(--acc);transform:rotate(-45deg)}
+pre{background:#0d1218;border:1px solid var(--line);border-radius:12px;padding:18px;overflow-x:auto;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.83rem;line-height:1.7;color:#c9d4e0;margin:18px 0}
+pre .c{color:var(--mut)}
+pre .k{color:var(--acc2)}
+pre .g{color:var(--acc)}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+th,td{padding:13px 16px;text-align:left;border-bottom:1px solid var(--line);font-size:.94rem}
+th{font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--acc)}
+tr:last-child td{border-bottom:none}
+.price-box{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;background:linear-gradient(135deg,rgba(77,212,172,.09),rgba(122,162,255,.07));border:1px solid rgba(77,212,172,.3);border-radius:18px;padding:28px}
+.price-num{font-size:2.6rem;font-weight:800;letter-spacing:-.03em;color:var(--fg)}
+.price-num span{font-size:1rem;font-weight:500;color:var(--mut)}
+.btn{display:inline-block;padding:14px 28px;border-radius:12px;background:var(--acc);color:#06231a;font-weight:700;font-size:1rem}
+.btn:hover{text-decoration:none;filter:brightness(1.08)}
+.faq details{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:10px 0}
+.faq summary{cursor:pointer;font-weight:600}
+.faq p{color:var(--mut);margin:10px 0 0;font-size:.95rem}
+footer{border-top:1px solid var(--line);padding:30px 0;color:var(--mut);font-size:.9rem;text-align:center}
+.mono{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.9em;color:var(--acc2)}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Product","name":"PostPilot","description":"Framework-free Python bot that schedules posts to Telegram channels and auto-publishes new RSS/Atom items. SQLite storage, timezone-correct scheduling, 40-test suite.","brand":{"@type":"Brand","name":"dazo studio"},"offers":{"@type":"Offer","price":"79","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://fyosamu.github.io/postpilot/"},"seller":{"@type":"Organization","name":"dazo studio","email":"hkay7645@gmail.com"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What exactly do I get for $79?","acceptedAnswer":{"@type":"Answer","text":"The complete PostPilot source code, install documentation, a 24/7 service setup guide, and a recorded test run. Delivered the same day, by email."}},{"@type":"Question","name":"What are the runtime requirements?","acceptedAnswer":{"@type":"Answer","text":"Python 3.10+, one runtime dependency (feedparser), and a Telegram bot token. State lives in a single SQLite file - no database server, no Docker required."}},{"@type":"Question","name":"How does RSS auto-posting avoid flooding my channel?","acceptedAnswer":{"@type":"Answer","text":"The first poll only records a baseline of existing feed items. Only items that appear after that baseline are ever published, so old articles never hit the channel."}},{"@type":"Question","name":"Can I modify the source?","acceptedAnswer":{"@type":"Answer","text":"Yes. It is your source code after purchase - modify it, rebrand it, use it in client projects."}}]}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="https://fyosamu.github.io/">dazo<span>.</span></a>
+    <a class="back" href="https://fyosamu.github.io/pricing/">All prices →</a>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="hero" style="border-top:none">
+      <span class="eyebrow">product · ready to ship</span>
+      <h1>PostPilot — your Telegram channel, on autopilot</h1>
+      <p class="lead">A framework-free Python bot that schedules posts to any Telegram channel and auto-publishes new RSS and Atom items. One runtime dependency, one SQLite file, and a 40-test suite that runs on the standard library alone.</p>
+      <div style="margin-top:34px" class="price-box">
+        <div class="price-num">$79 <span>— source + docs, delivered same day</span></div>
+        <a class="btn" href="mailto:hkay7645@gmail.com?subject=PostPilot%20source%20request">Request the source →</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>What it does</h2>
+      <div class="grid2">
+        <div class="card">
+          <h3>Post scheduling</h3>
+          <p>Absolute times, relative delays and recurring schedules — all timezone-correct. Queue a week of posts in one sitting and let it publish.</p>
+        </div>
+        <div class="card">
+          <h3>RSS / Atom auto-posting</h3>
+          <p>Point it at any feed. New items get published to your channel automatically, with a baseline on first poll so old articles never flood it.</p>
+        </div>
+        <div class="card">
+          <h3>Rate-limit aware</h3>
+          <p>Telegram rate limits are retried, not dropped. A network hiccup leaves the post pending instead of losing it.</p>
+        </div>
+        <div class="card">
+          <h3>Runs anywhere</h3>
+          <p>Any Linux box, a $5 VPS, or a Raspberry Pi. State is one SQLite file — back it up by copying it.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>What is inside</h2>
+      <ul class="ck">
+        <li><strong>Full source code</strong> — no obfuscation, no license server, no phone-home</li>
+        <li><strong>Install docs</strong> — from empty server to publishing in one sitting</li>
+        <li><strong>24/7 service setup</strong> — systemd unit so it survives reboots</li>
+        <li><strong>40-test suite</strong> — runs on the Python standard library alone</li>
+        <li><strong>Test run recording</strong> — watch it work before you deploy it</li>
+      </ul>
+      <pre><span class="c"># scheduling is plain and readable</span>
+<span class="k">from</span> postpilot <span class="k">import</span> Scheduler
+
+sched = Scheduler(db=<span class="g">"channel.db"</span>)
+sched.at(<span class="g">"2026-11-01 09:00"</span>, tz=<span class="g">"Europe/Berlin"</span>, text=<span class="g">"weekly drop is live"</span>)
+sched.every(<span class="g">"monday 08:30"</span>, tz=<span class="g">"Asia/Tehran"</span>, file=<span class="g">"posts/monday.md"</span>)
+sched.watch_rss(<span class="g">"https://blog.example.com/feed"</span>, channel=<span class="g">"@mystore"</span>)</pre>
+    </section>
+
+    <section>
+      <h2>Honest comparison</h2>
+      <table>
+        <tr><th></th><th>PostPilot</th><th>SaaS schedulers</th></tr>
+        <tr><td>Price</td><td><strong>$79 once</strong></td><td>$12–$49 <em>per month</em>, forever</td></tr>
+        <tr><td>Source code</td><td>Yours, modify anything</td><td>Never</td></tr>
+        <tr><td>Data</td><td>One SQLite file on your server</td><td>Their cloud</td></tr>
+        <tr><td>Channels</td><td>Unlimited</td><td>Per-seat pricing</td></tr>
+        <tr><td>Dependency</td><td>One Python package</td><td>Their uptime</td></tr>
+      </table>
+    </section>
+
+    <section class="faq">
+      <h2>Questions</h2>
+      <details open>
+        <summary>What exactly do I get for $79?</summary>
+        <p>The complete source, install documentation, a 24/7 service setup guide, and a recorded test run. Delivered by email the same day.</p>
+      </details>
+      <details>
+        <summary>What are the runtime requirements?</summary>
+        <p>Python 3.10+, one runtime dependency (<span class="mono">feedparser</span>), and a Telegram bot token. No database server, no Docker.</p>
+      </details>
+      <details>
+        <summary>Will old RSS items flood my channel?</summary>
+        <p>No. The first poll only records a baseline. Only items that appear after it are ever published.</p>
+      </details>
+      <details>
+        <summary>Can I use it for client projects?</summary>
+        <p>Yes. It is your source after purchase — modify it, rebrand it, deploy it for as many channels as you want.</p>
+      </details>
+      <details>
+        <summary>How do I pay?</summary>
+        <p>USDT (BEP-20 or ERC-20) after we agree on the delivery, or ask about card payment when you email. The source is sent as soon as the payment clears.</p>
+      </details>
+    </section>
+
+    <section>
+      <div class="price-box">
+        <div class="price-num">$79 <span>— one payment, source is yours</span></div>
+        <a class="btn" href="mailto:hkay7645@gmail.com?subject=PostPilot%20source%20request">Request the source →</a>
+      </div>
+      <p style="color:var(--mut);margin-top:14px">Email <a href="mailto:hkay7645@gmail.com">hkay7645@gmail.com</a> — plain text, so it can be typed by hand.</p>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Built by <a href="https://fyosamu.github.io/">dazo studio</a> — websites, bots and AI workflows at published prices.
+    <a href="https://fyosamu.github.io/pricing/">Every price →</a>
+  </div>
+</footer>
+</body>
+</html>
