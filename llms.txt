@@ -40,6 +40,7 @@ The whole site as one file, for systems that would rather not fetch twelve pages
 
 - [Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/): pick a scope, get an instant fixed price in USD and USDT plus the typical market range for comparison. No email required.
 - [Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/): choose features and message volume, get the build price and a realistic monthly hosting estimate.
+- [AI automation cost calculator](https://fyosamu.github.io/tools/ai-automation-cost-calculator/): pick the workflow, the systems it must touch and the monthly volume, get an instant build price in USD and USDT with the market range beside it. No email required.
 
 ## Optional
 

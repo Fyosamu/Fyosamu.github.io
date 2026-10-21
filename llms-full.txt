@@ -124,7 +124,7 @@ $150 – $400/mo — ongoing
 
 ## Price your own project, right now
 
-Two free calculators. No email gate, no tracking, nothing sent anywhere — they run in your browser and give you a number before you talk to anyone.
+Three free calculators. No email gate, no tracking, nothing sent anywhere — they run in your browser and give you a number before you talk to anyone.
 
         Free tool
 
@@ -139,6 +139,14 @@ open the calculator →
 ### Telegram bot cost calculator
 
 Features and message volume in, build price out — with a realistic monthly hosting estimate and what an agency would charge for the same bot.
+
+open the calculator →
+
+        Free tool
+
+### AI automation cost calculator
+
+Workflow, integrations and monthly volume in, instant build price out — with the market range beside it and the model cost you will pay after launch.
 
 open the calculator →
 
@@ -785,6 +793,7 @@ Paid in USDT — BEP-20 or ERC-20, never TRC-20. If you would rather someone els
 ## Related
 
       Telegram bot cost calculatorSame idea, for bots — features, message volume, monthly hosting.
+      AI automation cost calculatorSame idea, for workflows and agents — integrations, volume, model cost.
       Web developmentWhat is actually included in the $750 – $2,500 build.
       Website to appTurn an existing site into an Android or iOS app.
       Telegram bot developmentBots for support, sales, moderation and internal tools.
@@ -937,6 +946,7 @@ Paid in USDT — BEP-20 or ERC-20, never TRC-20. Already have half a bot? Send t
 ## Related
 
       Website cost calculatorSame idea, for websites and web apps.
+      AI automation cost calculatorSame idea, for workflows and agents.
       Telegram bot developmentWhat is actually included in the $600 – $1,800 build.
       AI workflow automationLead capture, document processing, scheduled agents.
       Web developmentCustom sites $750 – $2,500.

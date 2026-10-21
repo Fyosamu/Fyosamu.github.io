@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Automation Cost Calculator — Instant Estimate in USD &amp; USDT | dazo</title>
+<meta name="description" content="Free AI automation cost calculator. Pick the workflow, integrations and volume and get an instant price in USD and USDT, plus the market range for comparison. No email required." />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<link rel="canonical" href="https://fyosamu.github.io/tools/ai-automation-cost-calculator/" />
+<meta name="theme-color" content="#0b0f14" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://fyosamu.github.io/tools/ai-automation-cost-calculator/" />
+<meta property="og:site_name" content="dazo" />
+<meta property="og:title" content="AI Automation Cost Calculator (2026) — Instant Estimate in USD &amp; USDT" />
+<meta property="og:description" content="Pick the workflow and integrations, get an instant price in USD and USDT. Market range included for comparison. No email required." />
+<meta property="og:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="dazo — websites, bots and SEO, paid in USDT" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AI Automation Cost Calculator (2026) — Instant Estimate in USD &amp; USDT" />
+<meta name="twitter:description" content="Pick the workflow and integrations, get an instant price in USD and USDT. No email required." />
+<meta name="twitter:image" content="https://fyosamu.github.io/assets/og-card.jpg" />
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><text x='32' y='45' font-family='Arial,Helvetica,sans-serif' font-size='40' font-weight='bold' fill='%234dd4ac' text-anchor='middle'>d</text></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+<style>
+:root{
+  --bg:#0b0f14; --bg2:#11161d; --panel:#151c25; --line:#222b36;
+  --fg:#e6edf3; --mut:#8b98a8; --acc:#4dd4ac; --acc2:#7aa2ff; --warn:#ffb454;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--acc);text-decoration:none}
+a:hover{text-decoration:underline}
+p a,.note a,footer a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+header{position:sticky;top:0;z-index:50;background:rgba(11,15,20,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+.brand{font-weight:800;font-size:1.15rem;letter-spacing:-.02em;color:var(--fg)}
+.brand span{color:var(--acc)}
+.nav nav a{color:var(--mut);font-size:.92rem;margin-left:20px}
+.nav nav a:hover{color:var(--acc);text-decoration:none}
+.eyebrow{display:inline-block;font-size:.74rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--acc);background:rgba(77,212,172,.1);border:1px solid rgba(77,212,172,.28);padding:5px 12px;border-radius:999px}
+h1{font-size:clamp(2rem,5vw,3.1rem);line-height:1.12;letter-spacing:-.03em;margin:20px 0 14px}
+h2{font-size:clamp(1.4rem,3vw,2rem);letter-spacing:-.02em;margin:0 0 14px}
+h3{font-size:1.05rem;margin:0 0 8px}
+.lead{font-size:1.1rem;color:var(--mut);max-width:66ch;margin:0 0 8px}
+section{padding:64px 0}
+.muted{color:var(--mut)}
+.small{font-size:.87rem}
+.grid2{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:start}
+@media(max-width:860px){.grid2{grid-template-columns:minmax(0,1fr)}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:26px}
+label{display:block;font-size:.8rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);margin:0 0 10px}
+select{width:100%;background:var(--bg2);border:1px solid var(--line);color:var(--fg);padding:13px 14px;border-radius:10px;font:inherit;font-size:.98rem}
+select:focus{outline:none;border-color:var(--acc)}
+.opts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+@media(max-width:520px){.opts{grid-template-columns:minmax(0,1fr)}}
+.opt{display:flex;gap:10px;align-items:flex-start;background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:12px 13px;cursor:pointer;transition:.15s}
+.opt:hover{border-color:#37445a}
+.opt input{margin:4px 0 0;accent-color:var(--acc);flex:0 0 auto}
+.opt.on{border-color:var(--acc);background:rgba(77,212,172,.07)}
+.opt b{display:block;font-size:.94rem;font-weight:600}
+.opt em{font-style:normal;font-size:.8rem;color:var(--mut)}
+.field{margin-top:26px}
+.result{position:sticky;top:88px;background:linear-gradient(160deg,#16202b,#101720);border:1px solid var(--acc);border-radius:18px;padding:28px;box-shadow:0 20px 50px rgba(0,0,0,.45)}
+.price{font-size:clamp(2.4rem,6vw,3.4rem);font-weight:800;letter-spacing:-.04em;color:var(--acc);line-height:1}
+.price small{font-size:.9rem;font-weight:600;color:var(--mut);letter-spacing:0;display:block;margin-top:6px}
+.usdt{margin-top:16px;background:rgba(11,15,20,.6);border:1px dashed var(--line);border-radius:10px;padding:13px 15px;font-size:.95rem}
+.usdt b{color:var(--warn)}
+.cmp{margin-top:16px;border-top:1px solid var(--line);padding-top:16px}
+.cmp .r{display:flex;justify-content:space-between;gap:12px;font-size:.93rem;padding:7px 0;border-bottom:1px dashed rgba(34,43,54,.9)}
+.cmp .r:last-child{border-bottom:0}
+.cmp .r b{font-weight:700}
+.timeline{margin-top:14px;font-size:.93rem;color:var(--mut)}
+.btn{display:inline-block;background:var(--acc);color:#08120f;font-weight:700;padding:13px 22px;border-radius:10px;border:0;font-size:.97rem;cursor:pointer}
+.btn:hover{background:#3ec7a1;text-decoration:none}
+.btn.ghost{background:transparent;color:var(--acc);border:1px solid rgba(77,212,172,.4)}
+.note{font-size:.8rem;color:var(--mut);margin-top:14px;line-height:1.55}
+table{width:100%;border-collapse:collapse;font-size:.94rem}
+th,td{text-align:left;padding:13px 12px;border-bottom:1px solid var(--line)}
+th{font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);font-weight:700}
+td b{color:var(--acc)}
+.faq{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin-bottom:14px}
+.faq h3{margin:0 0 8px}
+.faq p{margin:0;color:var(--mut);font-size:.96rem}
+.links{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.links a{display:block;background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:18px;color:var(--fg);transition:.15s}
+.links a:hover{border-color:var(--acc);text-decoration:none;transform:translateY(-2px)}
+.links b{display:block;color:var(--acc);margin-bottom:4px}
+.links span{font-size:.87rem;color:var(--mut)}
+footer{border-top:1px solid var(--line);padding:34px 0;color:var(--mut);font-size:.88rem}
+footer a{color:var(--mut)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="https://fyosamu.github.io/">da<span>zo</span></a>
+    <nav>
+      <a href="https://fyosamu.github.io/web-development/">Web</a>
+      <a href="https://fyosamu.github.io/ai-automation/">Automation</a>
+      <a href="https://fyosamu.github.io/partners/">Partners</a>
+      <a href="https://fyosamu.github.io/#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section style="padding-bottom:34px">
+  <div class="wrap">
+    <span class="eyebrow">Free tool · no email required</span>
+    <h1>AI Automation Cost Calculator</h1>
+    <p class="lead">Pick what you want automated and get an instant price for the build in <b>USD and USDT</b>, plus the market range so you can judge a quote you already received.</p>
+    <p class="small muted">Nothing is sent anywhere. The estimate is calculated in your browser.</p>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="wrap grid2">
+
+    <div class="card">
+      <div class="field" style="margin-top:0">
+        <label for="type">1 — What are you automating?</label>
+        <select id="type">
+          <option value="sync">Data sync — two systems talking to each other</option>
+          <option value="docs">Document processing — read, extract, file, route</option>
+          <option value="agent">AI agent — answers, triage, drafts, decides</option>
+          <option value="rag">RAG over your own documents — ask, get cited answers</option>
+          <option value="pipeline">Full pipeline — the whole department flow, end to end</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>2 — What does it need to touch?</label>
+        <div class="opts" id="extras">
+          <label class="opt"><input type="checkbox" data-price="0" data-weeks="0" data-label="Error handling" checked><span><b>Error handling &amp; retries</b><em>Included on every build</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="220" data-weeks="1" data-label="CRM integration"><span><b>CRM integration</b><em>HubSpot, Salesforce, Pipedrive</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="190" data-weeks="1" data-label="Payment events"><span><b>Payment events</b><em>Stripe / crypto webhooks</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="240" data-weeks="1" data-label="Telegram or Slack"><span><b>Telegram / Slack alerts</b><em>Approvals and digests in chat</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="310" data-weeks="1" data-label="Human approval step"><span><b>Human approval step</b><em>A person signs off before it ships</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="340" data-weeks="2" data-label="Monitoring dashboard"><span><b>Monitoring dashboard</b><em>Runs, failures, cost per run</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="280" data-weeks="1" data-label="Spreadsheet layer"><span><b>Spreadsheet layer</b><em>Google Sheets / Excel both ways</em></span></label>
+          <label class="opt"><input type="checkbox" data-price="360" data-weeks="2" data-label="Self-hosted LLM"><span><b>Self-hosted LLM</b><em>Your server, your data, no API bill</em></span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="volume">3 — How much runs through it?</label>
+        <select id="volume">
+          <option value="small">Up to 500 runs a month — a team or a shop</option>
+          <option value="mid">500 – 10,000 runs a month — a growing operation</option>
+          <option value="big">10,000+ runs a month — company-wide</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="host">4 — Where should it run?</label>
+        <select id="host">
+          <option value="0">Your own server — no monthly fee to us</option>
+          <option value="180">We host and watch it — $180 setup</option>
+        </select>
+      </div>
+    </div>
+
+    <div>
+      <div class="result">
+        <div class="small muted" style="letter-spacing:.1em;text-transform:uppercase;font-weight:700">Your estimate</div>
+        <div class="price" id="price">$900 – $3,000<small>fixed price for the build</small></div>
+
+        <div class="usdt">Payable in <b>USDT</b> — <span id="usdt">900 USDT</span> <span class="small muted">(BEP-20 or ERC-20, never TRC-20)</span></div>
+
+        <div class="timeline" id="timeline">Delivery: about 3–7 days</div>
+
+        <div class="cmp">
+          <div class="small muted" style="letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin-bottom:6px">Market range for this scope</div>
+          <div class="r"><span>No-code freelancer</span><b id="mFree">$600 – $1,800</b></div>
+          <div class="r"><small class="muted">Zapier/Make style, rented tools</small><span></span></div>
+          <div class="r"><span>AI agency</span><b id="mAgency">$4,000 – $12,000</b></div>
+          <div class="r"><span>dazo</span><b id="mOurs" style="color:var(--acc)">$900 – $3,000</b></div>
+        </div>
+
+        <div style="margin-top:20px;display:flex;gap:10px;flex-wrap:wrap">
+          <a class="btn" href="https://fyosamu.github.io/#contact">Get this quote confirmed</a>
+          <a class="btn ghost" href="https://fyosamu.github.io/ai-automation/">What the build includes</a>
+        </div>
+
+        <p class="note">Market ranges are indicative only — they move with region, seniority and how much discovery is included. They are here so you can check a quote, not as a promise from anyone. The dazo figure is our actual published price.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>What the number actually buys</h2>
+    <table>
+      <tr><th>Part</th><th>Included</th></tr>
+      <tr><td><b>Design of the flow</b></td><td>Every step mapped, every failure case named, before a line of code</td></tr>
+      <tr><td><b>The build</b></td><td>n8n / Make / Zapier pipeline or plain Python — whichever fits the job, not the trend</td></tr>
+      <tr><td><b>Tests</b></td><td>Known inputs, known outputs, so a silent break is caught on day one</td></tr>
+      <tr><td><b>Handover</b></td><td>Written docs, your accounts, your keys — no dependency on us</td></tr>
+      <tr><td><b>Fix window</b></td><td>Two weeks of adjustments after delivery, included</td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Questions people actually ask</h2>
+    <div class="faq">
+      <h3>Why does the same automation cost $900 or $3,000?</h3>
+      <p>Number of systems it touches and whether a human has to approve anything. Two tools talking is fast. Five tools, with money moving and a person signing off, is a different build.</p>
+    </div>
+    <div class="faq">
+      <h3>What about the monthly cost of the AI itself?</h3>
+      <p>API models usually run $10 – $80 a month at small volumes, and the dashboard we ship shows cost per run so it never surprises you. The self-hosted option removes that bill entirely.</p>
+    </div>
+    <div class="faq">
+      <h3>Is my data used for training?</h3>
+      <p>No. We wire the build to a zero-retention API mode, or to a self-hosted model if the data cannot leave your servers at all.</p>
+    </div>
+    <div class="faq">
+      <h3>Can I start with one workflow and add more later?</h3>
+      <p>That is how most projects start. The first build sets the patterns and the tests, so the second one is noticeably cheaper.</p>
+    </div>
+    <div class="faq">
+      <h3>Do I need a call to see the real number?</h3>
+      <p>No. Send the scope, get the number, decide. If it does not fit, you lost two minutes instead of an afternoon.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="wrap">
+    <div class="links">
+      <a href="https://fyosamu.github.io/tools/website-cost-calculator/"><b>Website cost calculator</b><span>Scope in, fixed price out</span></a>
+      <a href="https://fyosamu.github.io/tools/telegram-bot-cost-calculator/"><b>Telegram bot cost calculator</b><span>Features and volume in, price out</span></a>
+      <a href="https://fyosamu.github.io/ai-automation/"><b>AI automation service</b><span>What the build includes</span></a>
+      <a href="https://fyosamu.github.io/pricing/"><b>All prices</b><span>Every range in one place</span></a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap" style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap">
+    <span>dazo — custom websites, bots and automation. Paid in USDT.</span>
+    <span><a href="https://fyosamu.github.io/">Home</a> · <a href="https://fyosamu.github.io/#contact">Contact</a> · <a href="https://fyosamu.github.io/sitemap.xml">Sitemap</a></span>
+  </div>
+</footer>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "AI Automation Cost Calculator",
+  "url": "https://fyosamu.github.io/tools/ai-automation-cost-calculator/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "browserRequirements": "Requires JavaScript",
+  "description": "Free calculator that estimates the cost of an AI or n8n/Make automation build in USD and USDT and shows the typical market range for comparison.",
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "900", "priceSpecification": { "@type": "PriceSpecification", "priceCurrency": "USD", "minPrice": "900", "maxPrice": "3000" }, "priceCurrency": "USD" },
+  "provider": {
+    "@type": "Organization",
+    "name": "dazo",
+    "url": "https://fyosamu.github.io/"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does the same automation cost $900 or $3,000?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Number of systems it touches and whether a human has to approve anything. Two tools talking is fast. Five tools, with money moving and a person signing off, is a different build." }
+    },
+    {
+      "@type": "Question",
+      "name": "What about the monthly cost of the AI itself?",
+      "acceptedAnswer": { "@type": "Answer", "text": "API models usually run $10 to $80 a month at small volumes, and the dashboard we ship shows cost per run. A self-hosted model removes that bill entirely." }
+    },
+    {
+      "@type": "Question",
+      "name": "Is my data used for training?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. The build uses zero-retention API mode, or a self-hosted model if the data cannot leave your servers at all." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a call to see the real number?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. Send the scope, get the number, decide. If it does not fit, you lost two minutes instead of an afternoon." }
+    }
+  ]
+}
+</script>
+
+<script>
+(function(){
+  var base = {sync:900, docs:1250, agent:1600, rag:1900, pipeline:2600};
+  var baseWeeks = {sync:1, docs:1, agent:2, rag:2, pipeline:3};
+  var volMult = {small:1, mid:1.18, big:1.42};
+
+  function money(n){ return '$' + Math.round(n).toLocaleString('en-US'); }
+
+  function calc(){
+    var t = document.getElementById('type').value;
+    var usd = base[t] || 900;
+    var w = baseWeeks[t] || 1;
+
+    var boxes = document.querySelectorAll('#extras input[type=checkbox]');
+    for (var i=0;i<boxes.length;i++){
+      if (boxes[i].checked){
+        usd += parseInt(boxes[i].getAttribute('data-price'),10) || 0;
+        w   += parseInt(boxes[i].getAttribute('data-weeks'),10) || 0;
+        boxes[i].closest('.opt').classList.add('on');
+      } else {
+        boxes[i].closest('.opt').classList.remove('on');
+      }
+    }
+
+    var vol = document.getElementById('volume').value;
+    usd = usd * (volMult[vol] || 1);
+    if (vol === 'big') w += 1;
+
+    var host = parseInt(document.getElementById('host').value,10) || 0;
+    usd += host;
+
+    usd = Math.round(usd / 10) * 10;
+
+    var frLo = Math.max(400, Math.round(usd * 0.7 / 100) * 100);
+    var frHi = Math.max(frLo + 800, Math.round(usd * 2 / 100) * 100);
+    var agLo = Math.max(3500, Math.round(usd * 4 / 100) * 1000);
+    var agHi = Math.max(agLo + 4000, Math.round(usd * 12 / 100) * 1000);
+
+    document.getElementById('price').innerHTML = money(usd) +
+      '<small>fixed price for the build</small>';
+    document.getElementById('usdt').textContent = usd + ' USDT';
+    document.getElementById('mFree').textContent = money(frLo) + ' – ' + money(frHi);
+    document.getElementById('mAgency').textContent = money(agLo) + ' – ' + money(agHi);
+    document.getElementById('mOurs').textContent = money(usd);
+
+    var loD = 3 * w, hiD = 7 * w;
+    document.getElementById('timeline').textContent =
+      'Delivery: about ' + loD + '–' + hiD + ' days · then $10 – $80 / month of model cost';
+  }
+
+  var els = document.querySelectorAll('#type,#volume,#host,#extras input[type=checkbox]');
+  for (var i=0;i<els.length;i++){ els[i].addEventListener('change', calc); }
+  calc();
+})();
+</script>
+
+</body>
+</html>
