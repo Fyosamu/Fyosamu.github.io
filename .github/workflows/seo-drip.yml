@@ -49,6 +49,14 @@ jobs:
         page:
           - "https://fyosamu.github.io/"
           - "https://fyosamu.github.io/pricing/"
+          - "https://fyosamu.github.io/services/"
+          - "https://fyosamu.github.io/fashion-store/"
+          - "https://fyosamu.github.io/digital-store/"
+          - "https://fyosamu.github.io/elementor-kit/"
+          - "https://fyosamu.github.io/novabits-store/"
+          - "https://fyosamu.github.io/chroma-spirits/"
+          - "https://fyosamu.github.io/chess-bot/"
+          - "https://fyosamu.github.io/nft-collection/"
     steps:
       - name: Archive ${{ matrix.page }} to Wayback
         run: |
