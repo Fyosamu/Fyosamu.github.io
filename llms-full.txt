@@ -14,6 +14,7 @@
 - [Pricing](https://fyosamu.github.io/pricing/)
 - [Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/)
 - [Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/)
+- [AI automation cost calculator](https://fyosamu.github.io/tools/ai-automation-cost-calculator/)
 - [AI workflow automation](https://fyosamu.github.io/ai-automation/)
 - [Web development](https://fyosamu.github.io/web-development/)
 - [Website to app](https://fyosamu.github.io/website-to-app/)
@@ -22,6 +23,11 @@
 - [Technical SEO](https://fyosamu.github.io/technical-seo/)
 - [Speed optimization](https://fyosamu.github.io/speed-optimization/)
 - [Website care plan](https://fyosamu.github.io/website-care-plan/)
+- [PostPilot — Telegram scheduler bot](https://fyosamu.github.io/postpilot/)
+- [10,481 AI prompts](https://fyosamu.github.io/prompts/)
+- [Excel and Sheets templates](https://fyosamu.github.io/excel-templates/)
+- [Resume and cover letter kit](https://fyosamu.github.io/resume-kit/)
+- [Printable planner 2026](https://fyosamu.github.io/planner-2026/)
 
 ---
 
@@ -378,6 +384,26 @@ Static HTMLResponsive to 320pxMIT
 
 14 USDT — per template · USDT or card
 
+### Spreadsheets, resume kit & printable planner
+
+FOR SALE
+
+Six documents that do real work: a client invoice and quote kit, a personal budget tracker with debt snowball, a 365-day content calendar, a client CRM with pipeline, an ATS-safe resume kit with six layouts and a 200+ bullet bank, and a 23-page printable planner for 2026. All instant download, all one-time payment.
+
+Excel & Google SheetsDOCX & PDFInstant download
+
+- Spreadsheets tested in Excel 2016+ and imported to Google Sheets
+
+- Resume layouts built to parse cleanly through applicant tracking systems
+
+- Planner prints in A4 or US Letter, unlimited copies, no subscription
+
+        Spreadsheets →
+        Resume kit →
+        Planner →
+
+$9 – $14 — per product · USDT or card
+
 How to buy: mail hkay7645@gmail.com and say which one you want. Payment in USDT (BEP-20 / ERC-20) — never TRC-20, that address does not exist on Tron.
 
       15%
@@ -542,6 +568,37 @@ Ranges, not guesses — where a project lands depends on scope. Every project th
             order →
 
 No order form on this site, on purpose. Every "order →" link above opens your own mail app. If you would rather not click through, the address is written out in full further down the page — type it into any mail client and it works just the same.
+
+## Instant-download products
+
+Buy these without emailing anyone. One-time payment, file unlocks the moment the payment confirms — USDT (BEP-20 / ERC-20) or card.
+
+          ProductPriceWhat it isBuy
+
+            PostPilotTelegram scheduler bot with RSS auto-posting
+            $79
+            Full Python source, install docs, 24/7 service setup — delivered by email same day
+            details →
+
+            10,481 AI promptsChatGPT, Claude, Gemini, Midjourney — 164 categories
+            $4.99 – $14.99
+            A single niche pack, or the whole vault in one ZIP
+            buy →
+
+            Excel & Sheets templatesInvoices, budget, CRM, content calendar
+            $12 – $14
+            Working spreadsheets with live formulas — Excel 2016+ and Google Sheets
+            buy →
+
+            Resume and cover letter kit6 ATS layouts, bullet bank, interview answers
+            $9
+            DOCX and PDF — edit anywhere, unlimited applications
+            buy →
+
+            Printable planner 202623 pages — months, goals, habits, budget, meals
+            $9
+            A4 and US Letter PDF — print as many copies as you need
+            buy →
 
 ## How an order actually happens
 
@@ -952,6 +1009,119 @@ Paid in USDT — BEP-20 or ERC-20, never TRC-20. Already have half a bot? Send t
       Web developmentCustom sites $750 – $2,500.
       Website to appAndroid and iOS from an existing site.
       Partner programSend us work, keep 15% of the fee.
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap
+
+---
+
+## AI automation cost calculator
+
+https://fyosamu.github.io/tools/ai-automation-cost-calculator/
+
+AI Automation Cost Calculator — Instant Estimate in USD & USDT | dazo
+
+    Free tool · no email required
+
+# AI Automation Cost Calculator
+
+Pick what you want automated and get an instant price for the build in USD and USDT, plus the market range so you can judge a quote you already received.
+
+Nothing is sent anywhere. The estimate is calculated in your browser.
+
+        1 — What are you automating?
+
+          Data sync — two systems talking to each other
+          Document processing — read, extract, file, route
+          AI agent — answers, triage, drafts, decides
+          RAG over your own documents — ask, get cited answers
+          Full pipeline — the whole department flow, end to end
+
+        2 — What does it need to touch?
+
+          Error handling & retriesIncluded on every build
+          CRM integrationHubSpot, Salesforce, Pipedrive
+          Payment eventsStripe / crypto webhooks
+          Telegram / Slack alertsApprovals and digests in chat
+          Human approval stepA person signs off before it ships
+          Monitoring dashboardRuns, failures, cost per run
+          Spreadsheet layerGoogle Sheets / Excel both ways
+          Self-hosted LLMYour server, your data, no API bill
+
+        3 — How much runs through it?
+
+          Up to 500 runs a month — a team or a shop
+          500 – 10,000 runs a month — a growing operation
+          10,000+ runs a month — company-wide
+
+        4 — Where should it run?
+
+          Your own server — no monthly fee to us
+          We host and watch it — $180 setup
+
+Your estimate
+
+$900 – $3,000fixed price for the build
+
+Payable in USDT — 900 USDT (BEP-20 or ERC-20, never TRC-20)
+
+Delivery: about 3–7 days
+
+Market range for this scope
+
+No-code freelancer$600 – $1,800
+
+Zapier/Make style, rented tools
+
+AI agency$4,000 – $12,000
+
+dazo$900 – $3,000
+
+          Get this quote confirmed
+          What the build includes
+
+Market ranges are indicative only — they move with region, seniority and how much discovery is included. They are here so you can check a quote, not as a promise from anyone. The dazo figure is our actual published price.
+
+## What the number actually buys
+
+      PartIncluded
+
+      Design of the flowEvery step mapped, every failure case named, before a line of code
+
+      The buildn8n / Make / Zapier pipeline or plain Python — whichever fits the job, not the trend
+
+      TestsKnown inputs, known outputs, so a silent break is caught on day one
+
+      HandoverWritten docs, your accounts, your keys — no dependency on us
+
+      Fix windowTwo weeks of adjustments after delivery, included
+
+## Questions people actually ask
+
+### Why does the same automation cost $900 or $3,000?
+
+Number of systems it touches and whether a human has to approve anything. Two tools talking is fast. Five tools, with money moving and a person signing off, is a different build.
+
+### What about the monthly cost of the AI itself?
+
+API models usually run $10 – $80 a month at small volumes, and the dashboard we ship shows cost per run so it never surprises you. The self-hosted option removes that bill entirely.
+
+### Is my data used for training?
+
+No. We wire the build to a zero-retention API mode, or to a self-hosted model if the data cannot leave your servers at all.
+
+### Can I start with one workflow and add more later?
+
+That is how most projects start. The first build sets the patterns and the tests, so the second one is noticeably cheaper.
+
+### Do I need a call to see the real number?
+
+No. Send the scope, get the number, decide. If it does not fit, you lost two minutes instead of an afternoon.
+
+      Website cost calculatorScope in, fixed price out
+      Telegram bot cost calculatorFeatures and volume in, price out
+      AI automation serviceWhat the build includes
+      All pricesEvery range in one place
 
     dazo — custom websites, bots and automation. Paid in USDT.
     Home · Contact · Sitemap
@@ -2172,3 +2342,640 @@ To place an order: open your mail app and write to hkay7645@gmail.com — type i
 © 2026 dazo — website care plan.
 
 Paid in USDT (BEP-20 / ERC-20) · hkay7645@gmail.com
+
+---
+
+## PostPilot — Telegram scheduler bot
+
+https://fyosamu.github.io/postpilot/
+
+PostPilot — Telegram Scheduler Bot with RSS Auto-Posting, $79 | dazo
+
+      product · ready to ship
+
+# PostPilot — your Telegram channel, on autopilot
+
+A framework-free Python bot that schedules posts to any Telegram channel and auto-publishes new RSS and Atom items. One runtime dependency, one SQLite file, and a 40-test suite that runs on the standard library alone.
+
+$79 — source + docs, delivered same day
+
+        Request the source →
+
+## What it does
+
+### Post scheduling
+
+Absolute times, relative delays and recurring schedules — all timezone-correct. Queue a week of posts in one sitting and let it publish.
+
+### RSS / Atom auto-posting
+
+Point it at any feed. New items get published to your channel automatically, with a baseline on first poll so old articles never flood it.
+
+### Rate-limit aware
+
+Telegram rate limits are retried, not dropped. A network hiccup leaves the post pending instead of losing it.
+
+### Runs anywhere
+
+Any Linux box, a $5 VPS, or a Raspberry Pi. State is one SQLite file — back it up by copying it.
+
+## What is inside
+
+- Full source code — no obfuscation, no license server, no phone-home
+
+- Install docs — from empty server to publishing in one sitting
+
+- 24/7 service setup — systemd unit so it survives reboots
+
+- 40-test suite — runs on the Python standard library alone
+
+- Test run recording — watch it work before you deploy it
+
+      # scheduling is plain and readable
+from postpilot import Scheduler
+
+sched = Scheduler(db="channel.db")
+sched.at("2026-11-01 09:00", tz="Europe/Berlin", text="weekly drop is live")
+sched.every("monday 08:30", tz="Asia/Tehran", file="posts/monday.md")
+sched.watch_rss("https://blog.example.com/feed", channel="@mystore")
+
+## Honest comparison
+
+        PostPilotSaaS schedulers
+
+        Price$79 once$12–$49 per month, forever
+
+        Source codeYours, modify anythingNever
+
+        DataOne SQLite file on your serverTheir cloud
+
+        ChannelsUnlimitedPer-seat pricing
+
+        DependencyOne Python packageTheir uptime
+
+## Questions
+
+        What exactly do I get for $79?
+
+The complete source, install documentation, a 24/7 service setup guide, and a recorded test run. Delivered by email the same day.
+
+        What are the runtime requirements?
+
+Python 3.10+, one runtime dependency (feedparser), and a Telegram bot token. No database server, no Docker.
+
+        Will old RSS items flood my channel?
+
+No. The first poll only records a baseline. Only items that appear after it are ever published.
+
+        Can I use it for client projects?
+
+Yes. It is your source after purchase — modify it, rebrand it, deploy it for as many channels as you want.
+
+        How do I pay?
+
+USDT (BEP-20 or ERC-20) after we agree on the delivery, or ask about card payment when you email. The source is sent as soon as the payment clears.
+
+$79 — one payment, source is yours
+
+        Request the source →
+
+Email hkay7645@gmail.com — plain text, so it can be typed by hand.
+
+    Built by dazo studio — websites, bots and AI workflows at published prices.
+    Every price →
+
+---
+
+## 10,481 AI prompts
+
+https://fyosamu.github.io/prompts/
+
+10,481 AI Prompts That Know the Rules — Dreamer Prompt Lab
+
+Dreamer Prompt Lab
+
+Instant download · USDT or card · lifetime access
+
+## A prompt that ignores the platform’s limits gives you output you cannot use
+
+Every pack here is built against the hard rules of the place the output has to live — not against a vague idea of “better results”.
+
+### Etsy — 140 characters, enforced
+
+Cut the title and you lose search rank. Keep going and it is truncated. Our Etsy prompts hold every title under 140 and give you A/B variants in the same pass.
+
+### Amazon — 200 characters
+
+A different ceiling, a different set of keywords worth spending them on. The prompts pick the primary keyword first, then spend the remaining characters on it.
+
+### One-page resume — 450 words
+
+Over 450 and it is two pages. The resume prompts cap the length in the instruction, not in your patience afterwards.
+
+### ATS resume — zero tables, zero images
+
+A column, a text box or a header image and a human never sees your application. The prompt forbids them by name, then lists the keywords it matched.
+
+Rewrite this resume to pass ATS for this job:
+
+[PASTE RESUME]
+
+[PASTE JOB DESCRIPTION]
+
+Rules:
+
+- Mirror exact keywords and phrases from the JD
+
+- Standard headings: Summary, Experience, Education, Skills
+
+- No tables, columns, text boxes, headers or footers
+
+- Quantify every bullet possible
+
+- Under 500 words
+
+Then list the keywords you matched.
+
+## Pick your lane
+
+Six bundles, thirty-three niche packs, or the whole vault. Every price below is a one-time payment.
+
+        Best value
+
+### Ultimate AI Prompt Mega Vault
+
+All 10,481 prompts across 164 categories. One ZIP, sorted into folders, findable in seconds.
+
+$14.99
+
+        Get the vault
+
+Was $49.64 bought separately
+
+        6,388 prompts
+
+### Business & Marketing
+
+Positioning, message houses, ad angles, launch copy, funnels, cold outreach and pricing talk.
+
+$9.99
+
+        See the bundle
+
+        1,505 prompts
+
+### Image, Design & Art
+
+Midjourney prompts that carry --ar, --style raw and named lighting instead of vibes.
+
+$6.99
+
+        See the bundle
+
+        1,501 prompts
+
+### Content & Social
+
+Writing prompts held to the character limit each platform enforces, hooks first, no filler.
+
+$6.99
+
+        See the bundle
+
+        1,087 prompts
+
+### Lifestyle & Learning
+
+Planning, study, habits, personal projects — the quiet half of the library.
+
+$5.99
+
+        See the bundle
+
+        33 niche packs
+
+### One trade at a time
+
+Restaurants, salons, gyms, real estate, HR, SaaS, courses, Etsy, email, video — 227 to 861 prompts each.
+
+$4.99
+
+        Browse niche packs
+
+Free preview: 180 prompts, no signup
+
+## What you actually get
+
+- Instant ZIP download — on your machine in under a minute
+
+- Lifetime access — the packs grow, you do not pay again
+
+- Free updates — new prompts land in the same folder
+
+- No subscription, no seat, no login after purchase
+
+- Four models covered — ChatGPT, Claude, Gemini, Midjourney
+
+- English, copy-paste ready — no translation layer
+
+- Platform limits baked in — 140 / 200 / 450, enforced by the prompt
+
+- Code DREAMER10 — 10% off, works on every product
+
+Etsy & Amazon sellersFifty listings by Friday, every title inside its ceiling.
+
+Freelance writersBilling by the deliverable, not by the hour you lost prompting.
+
+Real-estate photographersStaging shots and listing copy by Tuesday morning.
+
+RecruitersTwo hundred resumes screened without reading every one.
+
+AgenciesSix client accounts running on one brain.
+
+Course creatorsA full syllabus built over one weekend.
+
+## Pay how you want
+
+Card on Getly, or USDT straight to a Trust Wallet. No account required after purchase.
+
+### USDT — Trust Wallet
+
+0xE1E3e1c2978c74f43Bb095023135C3278303aF34
+
+NetworkBNB Smart Chain (BEP-20)
+
+AssetUSDT
+
+Network fee≈ $0.0025
+
+Minimum payout$5 · paid 1st & 15th
+
+Send BEP-20 only. ERC-20, TRC-20 or Polygon transfers to this address will be lost and cannot be recovered.
+
+- Choose a productVault at $14.99, a bundle from $5.99, or a niche pack at $4.99.
+
+- Pay by card, or send the exact USDT amountOn BNB Smart Chain. Check the network before you confirm.
+
+- Send the transaction hash + product nameOr complete checkout on Getly, which verifies it automatically.
+
+- The ZIP arrivesInstant delivery, lifetime access, free updates. No subscription, ever.
+
+## Questions
+
+        Is this a subscription?
+
+No. Every price on this page is a one-time payment. You get the file, you keep the file, and updates are free.
+
+        Which models do the prompts work with?
+
+ChatGPT, Claude, Gemini and Midjourney. The image prompts carry Midjourney parameters such as --ar and --style raw inline; the text prompts are model-agnostic.
+
+        Do I need an account?
+
+Not after purchase. Buy, download, done. You can browse the store without signing up.
+
+        Can I pay in crypto?
+
+Yes — USDT on BNB Smart Chain (BEP-20) to the address above, or through Getly’s checkout which accepts Ethereum, Tron, BSC, Polygon and Solana. Card works too.
+
+        What if I only need one thing?
+
+Buy a niche pack at $4.99 instead of the vault. Or start with the 180 free prompts in the public repo — no signup, no email.
+
+## Twenty minutes from now you can stop inventing prompts
+
+One download. 10,481 prompts. 164 categories. Every one of them already knows what Etsy, Amazon, your ATS and your client will not let you get away with.
+
+      Get all 10,481 prompts — $14.99
+      USDT (BEP-20) or card · instant download · lifetime access · code DREAMER10 = 10% off
+
+      Dreamer Prompt Lab — 10,481 prompts, 164 categories.
+
+      Store ·
+      Link page ·
+      180 free prompts ·
+      dazo ·
+      pricing ·
+      referral program
+
+Questions before buying: hkay7645@gmail.com
+
+Support: promptlabhk@uberip.com
+
+---
+
+## Excel and Sheets templates
+
+https://fyosamu.github.io/excel-templates/
+
+Excel & Google Sheets Templates for Freelancers — Invoices, Budget, CRM, Content Calendar | dazo
+
+    Instant download · Excel & Google Sheets
+
+# Spreadsheets that already do the maths
+
+Four working templates for the parts of freelancing nobody teaches: sending invoices that get paid, knowing what you actually earned, keeping clients out of a mess, and posting on schedule. Open in Excel 2016+ or import to Google Sheets — both are tested in both.
+
+      Best seller
+
+### Client Invoice and Quote Kit 2026
+
+Reusable invoice maker, quote builder, 24-row payment tracker, client ledger and a live dashboard that totals what is paid, what is pending and what is overdue.
+
+- Invoice and quote sheets you duplicate and rename — no re-typing the client block
+
+- Payment tracker with due dates, late flags and running balance
+
+- Dashboard: billed, received, outstanding, this month vs last
+
+$12.00 one-time
+
+      Get the invoice kit
+
+      For money
+
+### Personal Budget and Savings Tracker 2026
+
+Monthly budget, expense log, savings goals with progress bars, debt snowball calculator and a net-worth sheet that updates from the others.
+
+- Category budgets that warn you before the month breaks, not after
+
+- Debt snowball ordered by interest, with a payoff date that moves as you pay
+
+- Net worth across accounts, updated from one input sheet
+
+$12.00 one-time
+
+      Get the budget tracker
+
+      For reach
+
+### Content Calendar and Social Media Planner 2026
+
+All 365 days of 2026 dated, 22 key dates marked, a post tracker and a reach analytics dashboard so you can see which channel is actually working.
+
+- 365-day posting schedule — fill the slots once, see the month at a glance
+
+- Post tracker: channel, format, status, links, what got posted where
+
+- Reach analytics sheet with per-channel totals and a monthly trend
+
+$12.00 one-time
+
+      Get the content calendar
+
+      For clients
+
+### Client CRM and Project Tracker
+
+Sales pipeline, project board, timesheet, deliverables list and a win-rate dashboard — the whole client relationship in one file.
+
+- Pipeline stages you drag through: lead, quoted, won, lost — with values
+
+- Timesheet that feeds project profitability automatically
+
+- Win rate and average deal size, calculated from the pipeline
+
+$14.00 one-time
+
+      Get the CRM tracker
+
+## What every template shares
+
+      PropertyDetail
+
+      Works inExcel 2016 / 2019 / 365 and Google Sheets — same file, tested in both
+
+      FormulasLive, not pasted values — change a row and the dashboard moves
+
+      Sample rowsIncluded, so the file makes sense the second you open it; delete before use
+
+      DeliveryInstant download after checkout, one ZIP per product
+
+      LicencePersonal and client use included; no subscription, updates free
+
+      Pay in USDT or card. Checkout on Getly accepts USDT on BNB Smart Chain (BEP-20), Ethereum, Tron, Polygon and Solana, plus card. The file unlocks right after the payment confirms — usually under a minute.
+
+## Questions people ask
+
+### Do these work in Google Sheets, or only Excel?
+
+Both. Every file is tested in Excel 2016+ and imported into Google Sheets before it is listed. Open the .xlsx in Sheets with File → Import — the formulas survive.
+
+### Do I need to know formulas?
+
+No. You type into the log sheets; the dashboards calculate. The only cell you ever touch twice is the one you are correcting.
+
+### Is it a subscription?
+
+No. One payment, the file is yours, updates are free. Nothing renews and nothing phones home — these are plain spreadsheet files.
+
+### Can I use one for client work?
+
+Yes. The licence covers using the templates on your own business and on client projects. Reselling or redistributing the file itself is not allowed.
+
+## Other things in the shop
+
+      Resume and cover letter kit6 ATS resume layouts, 3 cover letters, bullet bank — $9
+      Printable planner 202623 pages: months, goals, habits, budget, meals — $9
+      10,481 AI promptsThe whole vault at $14.99, bundles from $5.99
+      Browse the full store39 products, all instant download
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap
+
+---
+
+## Resume and cover letter kit
+
+https://fyosamu.github.io/resume-kit/
+
+Resume and Cover Letter Kit 2026 — 6 ATS Resume Layouts, 3 Cover Letters, Bullet Bank | dazo
+
+    PDF · instant download · $9
+
+# The resume kit that survives the machine reading it
+
+Six resume layouts that parse cleanly through ATS software, three cover letters you adapt instead of rewrite, a bullet bank of 200+ proven phrases, the power verbs that move a resume up a rank, and written answers to the interview questions that actually decide things.
+
+- 6 ATS resume layouts — single column, no tables the parser eats, fonts that survive export
+
+- 3 cover letter templates — cold application, referral, and internal-move variants
+
+- 200+ bullet bank — action + task + result phrasing you swap your own numbers into
+
+- Power verbs list — the 60 verbs that read as senior, and the 20 that read as filler
+
+- Interview answer bank — STAR-shaped answers for the 15 questions that repeat
+
+- 2026 keyword map — what applicant tracking systems scan for this year
+
+          Pay in USDT or card. USDT on BNB Smart Chain (BEP-20), Ethereum, Tron, Polygon, Solana, or card through Getly. The ZIP unlocks the moment payment confirms.
+
+          $9.00
+          one-time · lifetime access
+
+One payment. The files are yours — edit them in Word, Pages, Google Docs or Canva, export the PDF the listing asks for.
+
+        Get the kit — $9
+        Browse the store
+
+## What is in the box
+
+6 resume layouts
+General, technical, management, career-change, graduate and a compact one-page for senior folks who refuse two pages. All single-column where it counts.
+
+3 cover letters
+Cold application, referral, and internal move. Each one is a fill-in structure, not a wall of adjectives — swap the bracketed parts and send.
+
+200+ bullet bank
+Phrases that carry a number: cut cost, raised conversion, shipped faster, managed people. Pick the shape, insert your figure.
+
+Power verbs, ranked
+Sixty verbs that read as ownership and twenty that read as filler — with a short note on why recruiters spot the difference.
+
+Interview answers
+Fifteen questions that decide offers, with STAR-shaped answers you rewrite with your own incidents. Includes the salary question.
+
+2026 keyword map
+What the tracking systems scan for now: skills sections that parse, date formats they accept, file names they do not drop.
+
+## Why most resumes die before a human sees them
+
+      FailureWhat the kit does about it
+
+      Two-column layoutsEvery kit layout is single-column where the parser reads — the fancy two-column versions stay optional and clearly marked
+
+      Vague bulletsThe bullet bank forces action + task + result, so every line carries a number or a scope
+
+      Wrong keywordsThe keyword map shows where to mirror the posting's language without lying
+
+      File name mattersNamed formats the systems accept — including the ones that reject spaces
+
+      Cover letter fillerThe three templates open with what you can do for them, not what you are passionate about
+
+## Questions people ask
+
+### What software do I need to edit these?
+
+Word, Pages, Google Docs or Canva — the files ship as .docx and .pdf. Google Docs opens the .docx directly; nothing is locked.
+
+### Are the layouts actually ATS-safe, or just called that?
+
+Single column, standard section headings, no text inside images or tables the parser reads out of order. The layouts were built against what the major tracking systems parse, not what looks clever in a portfolio.
+
+### Is this a subscription?
+
+No. One payment of $9, the files are yours, updates are free.
+
+### Can I use it for more than one application?
+
+Yes — unlimited applications, unlimited edits. Reselling or redistributing the templates themselves is not allowed.
+
+## Other things in the shop
+
+      Printable planner 202623 pages: months, goals, habits, budget, meals — $9
+      Excel & Sheets templatesInvoices, budget, CRM, content calendar — $12 – $14
+      120 job search promptsTailoring, LinkedIn, STAR answers, salary talks — $7.99
+      10,481 AI promptsThe whole vault at $14.99
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap
+
+---
+
+## Printable planner 2026
+
+https://fyosamu.github.io/planner-2026/
+
+Ultimate Printable Planner 2026 — 23 Pages: Monthly Spreads, Goals, Habits, Budget, Meal Plan | dazo
+
+    PDF · A4 & US Letter · $9
+
+# The 2026 planner you print, not subscribe to
+
+Twenty-three pages that cover a year: dated monthly spreads, a weekly layout, goals that break into weekly actions, a habit tracker, a budget page, a meal plan and a notes spread. Print it at home, print it at a shop, print a fresh copy every month — the file is yours.
+
+- 12 monthly spreads — dated for 2026, key dates marked, one page each
+
+- Weekly layout — priorities on the left, hours on the right, blank enough to reuse
+
+- Goals spread — yearly goal broken into four quarters and twelve weeks
+
+- Habit tracker — 31-day grid for up to ten habits, one page per month
+
+- Budget page — income, categories, savings, a running total strip
+
+- Meal plan + groceries — seven days beside a shopping list that groups by aisle
+
+          Pay in USDT or card. USDT on BNB Smart Chain (BEP-20), Ethereum, Tron, Polygon, Solana, or card through Getly. The ZIP unlocks the moment payment confirms — print the first page in two minutes.
+
+          $9.00
+          one-time · print unlimited copies
+
+Both sizes in one download: A4 and US Letter, black-and-white friendly so a cheap printer does it justice.
+
+        Get the planner — $9
+        Browse the store
+
+## The 23 pages
+
+12 monthly spreads
+Dated for 2026 with the usual key dates pre-marked. Space for the month's one big thing beside the calendar grid.
+
+Weekly layout
+Top three priorities, a time-blocked grid, and a review line at the bottom. One page, no clutter.
+
+Goals spread
+One yearly goal, four quarterly checkpoints, twelve weekly steps. Written so the next action is always visible.
+
+Habit tracker
+Ten habits across 31 days. Monthly page — print a new one with each month, keep the old ones as the record.
+
+Budget page
+Income, fixed costs, variable categories, savings goals and a total strip that makes the month's shape obvious.
+
+Meal plan + groceries
+Seven dinner slots, a notes column for prep, and a shopping list grouped so one pass through the store covers it.
+
+## Printed, not locked
+
+      PropertyDetail
+
+      SizesA4 and US Letter in one ZIP — print whichever the printer at hand takes
+
+      InkDesigned black-and-white friendly; a toner printer does it without drama
+
+      CopiesUnlimited — print a fresh habit page each month, a fresh budget page each week
+
+      PaperAny. 80 gsm works for daily writing; 120 gsm if you use markers
+
+      BindingStaple, punch for a binder, or clip to a board — the margins allow all three
+
+## Questions people ask
+
+### Is the planner dated for 2026 only?
+
+The monthly spreads are dated for 2026. The weekly, goals, habit, budget and meal pages are undated, so they work in any year — print those again in 2027.
+
+### Can I print it more than once?
+
+Yes. Unlimited copies for personal use. Reselling or redistributing the file itself is not allowed.
+
+### Will it work on my printer?
+
+It is a standard PDF — home printer, office printer or a print shop all take it. Both A4 and US Letter versions are in the download.
+
+### Is it a subscription?
+
+No. One payment of $9, the file is yours, updates are free.
+
+## Other things in the shop
+
+      Resume and cover letter kit6 ATS resume layouts, 3 cover letters, bullet bank — $9
+      Excel & Sheets templatesInvoices, budget, CRM, content calendar — $12 – $14
+      390-prompt mega packVideo scripts, cold outreach, job search — $14.99
+      10,481 AI promptsThe whole vault at $14.99
+
+    dazo — custom websites, bots and automation. Paid in USDT.
+    Home · Contact · Sitemap

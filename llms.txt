@@ -35,6 +35,9 @@ The whole site as one file, for systems that would rather not fetch twelve pages
 - [Chess puzzle bot](https://fyosamu.github.io/chess-bot/): a Lichess-style tactics trainer — clean board, real tactical motifs, instant feedback. Live board preview on the page; custom versions quoted per build.
 - [still-here](https://fyosamu.github.io/still-here/): a tiny offline-first PWA — a note that stays on the device, installable, no account, no server.
 - [AI tool scout](https://fyosamu.github.io/ai-tool-scout/): a structured review index of AI tools — what each one is good at, what it costs, and when to skip it.
+- [Excel and Google Sheets templates](https://fyosamu.github.io/excel-templates/): four working spreadsheets for freelancers and small teams — a client invoice and quote kit with payment tracker and dashboard, a personal budget and savings tracker with debt snowball, a 365-day content calendar with reach analytics, and a client CRM with pipeline and win-rate. $12 – $14 each, one-time, instant download, tested in Excel 2016+ and Google Sheets.
+- [Resume and cover letter kit 2026](https://fyosamu.github.io/resume-kit/): six ATS-safe resume layouts, three cover letter templates, a 200+ bullet bank, ranked power verbs, an interview answer bank and the 2026 keyword map. DOCX and PDF, $9 one-time, unlimited applications.
+- [Printable planner 2026](https://fyosamu.github.io/planner-2026/): a 23-page printable planner — 12 dated monthly spreads, a weekly layout, goals broken into quarters and weeks, a habit tracker, a budget page and a meal plan with a grouped shopping list. A4 and US Letter PDF, $9, unlimited copies.
 
 ## Free tools
 
@@ -44,6 +47,6 @@ The whole site as one file, for systems that would rather not fetch twelve pages
 
 ## Optional
 
-- [dazo-cost-calculators](https://github.com/Fyosamu/dazo-cost-calculators): MIT-licensed source of the two calculators above — single-file, no dependencies, no analytics, the maths runs in the browser.
+- [dazo-cost-calculators](https://github.com/Fyosamu/dazo-cost-calculators): MIT-licensed source of the calculators above — single-file, no dependencies, no analytics, the maths runs in the browser.
 - [GitHub profile](https://github.com/Fyosamu): public repositories, including the site source.
 - Contact: hkay7645@gmail.com — plain text on purpose, so it can be copied or typed by hand.
